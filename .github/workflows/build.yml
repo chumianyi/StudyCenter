@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
-          java-version: '11'
+          java-version: '17'
 
       - name: Setup Android SDK
         run: |
@@ -25,7 +25,6 @@ jobs:
           export PATH="$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools:$ANDROID_HOME/build-tools/30.0.3:$PATH"
           echo "$ANDROID_HOME/cmdline-tools/latest/bin" >> $GITHUB_PATH
           echo "$ANDROID_HOME/build-tools/30.0.3" >> $GITHUB_PATH
-          ls "$ANDROID_HOME/cmdline-tools/" || true
           yes | sdkmanager --licenses > /dev/null 2>&1 || true
           sdkmanager "build-tools;30.0.3" "platforms;android-30" 2>&1 | tail -10
           ls "$ANDROID_HOME/platforms/" || true
