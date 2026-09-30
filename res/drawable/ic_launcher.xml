@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 启动图标：绿色圆角底 + 白色书本造型（layer-list shape 兼容 minSdk17） -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#4CAF50" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+    <item android:left="20dp" android:right="20dp" android:top="28dp" android:bottom="28dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+    <item android:left="38dp" android:right="38dp" android:top="30dp" android:bottom="30dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#4CAF50" />
+        </shape>
+    </item>
+</layer-list>

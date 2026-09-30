@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 浅色主题：基于 Holo Light，兼容 minSdk17 -->
+    <style name="AppTheme" parent="android:style/Theme.Holo.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:colorPrimary">#4CAF50</item>
+        <item name="android:windowBackground">#FAFAFA</item>
+    </style>
+    <!-- 深色主题 -->
+    <style name="AppTheme.Dark" parent="android:style/Theme.Holo">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowBackground">#222222</item>
+    </style>
+</resources>

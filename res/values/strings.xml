@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习中心</string>
+    <string name="default_subject">全部科目</string>
+    <string name="today_learned">今日已学习</string>
+    <string name="nav_back">返回</string>
+    <string name="nav_home">主页</string>
+    <string name="nav_background">后台</string>
+</resources>

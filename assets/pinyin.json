@@ -1,0 +1,3607 @@
+[
+  {
+    "character": "一",
+    "pinyin": "yī",
+    "radical": "一",
+    "strokes": 1,
+    "meaning": "数名；最小的正整数；专一"
+  },
+  {
+    "character": "二",
+    "pinyin": "èr",
+    "radical": "二",
+    "strokes": 2,
+    "meaning": "数名；一加一"
+  },
+  {
+    "character": "三",
+    "pinyin": "sān",
+    "radical": "一",
+    "strokes": 3,
+    "meaning": "数名；二加一"
+  },
+  {
+    "character": "人",
+    "pinyin": "rén",
+    "radical": "人",
+    "strokes": 2,
+    "meaning": "能制造工具的高等动物；别人"
+  },
+  {
+    "character": "口",
+    "pinyin": "kǒu",
+    "radical": "口",
+    "strokes": 3,
+    "meaning": "嘴；出入通过的地方"
+  },
+  {
+    "character": "手",
+    "pinyin": "shǒu",
+    "radical": "手",
+    "strokes": 4,
+    "meaning": "人体上肢前端；拿着"
+  },
+  {
+    "character": "日",
+    "pinyin": "rì",
+    "radical": "日",
+    "strokes": 4,
+    "meaning": "太阳；一天；每天"
+  },
+  {
+    "character": "月",
+    "pinyin": "yuè",
+    "radical": "月",
+    "strokes": 4,
+    "meaning": "月亮；计时单位"
+  },
+  {
+    "character": "水",
+    "pinyin": "shuǐ",
+    "radical": "水",
+    "strokes": 4,
+    "meaning": "无色无味液体；河流"
+  },
+  {
+    "character": "火",
+    "pinyin": "huǒ",
+    "radical": "火",
+    "strokes": 4,
+    "meaning": "物体燃烧时发出的光焰"
+  },
+  {
+    "character": "山",
+    "pinyin": "shān",
+    "radical": "山",
+    "strokes": 3,
+    "meaning": "地面高耸的部分"
+  },
+  {
+    "character": "石",
+    "pinyin": "shí",
+    "radical": "石",
+    "strokes": 5,
+    "meaning": "构成地壳的矿物质硬块"
+  },
+  {
+    "character": "田",
+    "pinyin": "tián",
+    "radical": "田",
+    "strokes": 5,
+    "meaning": "种植农作物的土地"
+  },
+  {
+    "character": "土",
+    "pinyin": "tǔ",
+    "radical": "土",
+    "strokes": 3,
+    "meaning": "地面的泥沙混合物；本地的"
+  },
+  {
+    "character": "木",
+    "pinyin": "mù",
+    "radical": "木",
+    "strokes": 4,
+    "meaning": "树；木料；呆笨"
+  },
+  {
+    "character": "金",
+    "pinyin": "jīn",
+    "radical": "金",
+    "strokes": 8,
+    "meaning": "金属；钱；黄金"
+  },
+  {
+    "character": "王",
+    "pinyin": "wáng",
+    "radical": "王",
+    "strokes": 4,
+    "meaning": "君主；首领"
+  },
+  {
+    "character": "大",
+    "pinyin": "dà",
+    "radical": "大",
+    "strokes": 3,
+    "meaning": "指面积、体积等超过一般"
+  },
+  {
+    "character": "小",
+    "pinyin": "xiǎo",
+    "radical": "小",
+    "strokes": 3,
+    "meaning": "与大相对；年幼的"
+  },
+  {
+    "character": "上",
+    "pinyin": "shàng",
+    "radical": "上",
+    "strokes": 3,
+    "meaning": "位置在高处；等级高"
+  },
+  {
+    "character": "下",
+    "pinyin": "xià",
+    "radical": "下",
+    "strokes": 3,
+    "meaning": "位置在低处；降下"
+  },
+  {
+    "character": "中",
+    "pinyin": "zhōng",
+    "radical": "丨",
+    "strokes": 4,
+    "meaning": "中心；内；不偏不倚"
+  },
+  {
+    "character": "心",
+    "pinyin": "xīn",
+    "radical": "心",
+    "strokes": 4,
+    "meaning": "心脏；思想；感情"
+  },
+  {
+    "character": "力",
+    "pinyin": "lì",
+    "radical": "力",
+    "strokes": 2,
+    "meaning": "力量；能力；努力"
+  },
+  {
+    "character": "天",
+    "pinyin": "tiān",
+    "radical": "大",
+    "strokes": 4,
+    "meaning": "天空；一昼夜；自然的"
+  },
+  {
+    "character": "地",
+    "pinyin": "dì",
+    "radical": "土",
+    "strokes": 6,
+    "meaning": "大地；土地；地方"
+  },
+  {
+    "character": "风",
+    "pinyin": "fēng",
+    "radical": "风",
+    "strokes": 4,
+    "meaning": "空气流动；风俗"
+  },
+  {
+    "character": "云",
+    "pinyin": "yún",
+    "radical": "二",
+    "strokes": 4,
+    "meaning": "水蒸气上升遇冷凝成的物体"
+  },
+  {
+    "character": "雨",
+    "pinyin": "yǔ",
+    "radical": "雨",
+    "strokes": 8,
+    "meaning": "从云层降落的水滴"
+  },
+  {
+    "character": "雪",
+    "pinyin": "xuě",
+    "radical": "雨",
+    "strokes": 11,
+    "meaning": "空气中的水蒸气冷凝成的白色结晶"
+  },
+  {
+    "character": "星",
+    "pinyin": "xīng",
+    "radical": "日",
+    "strokes": 9,
+    "meaning": "夜晚天空中发光的天体"
+  },
+  {
+    "character": "光",
+    "pinyin": "guāng",
+    "radical": "儿",
+    "strokes": 6,
+    "meaning": "光线；明亮；荣誉"
+  },
+  {
+    "character": "春",
+    "pinyin": "chūn",
+    "radical": "日",
+    "strokes": 9,
+    "meaning": "春季；一年的第一季"
+  },
+  {
+    "character": "夏",
+    "pinyin": "xià",
+    "radical": "夂",
+    "strokes": 10,
+    "meaning": "夏季；中国朝代名"
+  },
+  {
+    "character": "秋",
+    "pinyin": "qiū",
+    "radical": "禾",
+    "strokes": 9,
+    "meaning": "秋季；庄稼成熟季节"
+  },
+  {
+    "character": "冬",
+    "pinyin": "dōng",
+    "radical": "冫",
+    "strokes": 5,
+    "meaning": "冬季；一年的第四季"
+  },
+  {
+    "character": "东",
+    "pinyin": "dōng",
+    "radical": "一",
+    "strokes": 5,
+    "meaning": "方向，太阳出来的一边"
+  },
+  {
+    "character": "西",
+    "pinyin": "xī",
+    "radical": "襾",
+    "strokes": 6,
+    "meaning": "方向，太阳落下的一边"
+  },
+  {
+    "character": "南",
+    "pinyin": "nán",
+    "radical": "十",
+    "strokes": 9,
+    "meaning": "方向，早晨面向太阳的右方"
+  },
+  {
+    "character": "北",
+    "pinyin": "běi",
+    "radical": "匕",
+    "strokes": 5,
+    "meaning": "方向，早晨面向太阳的左方"
+  },
+  {
+    "character": "左",
+    "pinyin": "zuǒ",
+    "radical": "工",
+    "strokes": 5,
+    "meaning": "面向南时靠东的一边"
+  },
+  {
+    "character": "右",
+    "pinyin": "yòu",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "面向南时靠西的一边"
+  },
+  {
+    "character": "前",
+    "pinyin": "qián",
+    "radical": "刀",
+    "strokes": 9,
+    "meaning": "在正面的；前进"
+  },
+  {
+    "character": "后",
+    "pinyin": "hòu",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "在背面的；后代"
+  },
+  {
+    "character": "开",
+    "pinyin": "kāi",
+    "radical": "廾",
+    "strokes": 4,
+    "meaning": "打开；开始；发动"
+  },
+  {
+    "character": "关",
+    "pinyin": "guān",
+    "radical": "八",
+    "strokes": 6,
+    "meaning": "闭合；关口；重要"
+  },
+  {
+    "character": "门",
+    "pinyin": "mén",
+    "radical": "门",
+    "strokes": 3,
+    "meaning": "建筑物的出入口；形状像门的"
+  },
+  {
+    "character": "窗",
+    "pinyin": "chuāng",
+    "radical": "穴",
+    "strokes": 12,
+    "meaning": "房屋通气透光的装置"
+  },
+  {
+    "character": "桌",
+    "pinyin": "zhuō",
+    "radical": "木",
+    "strokes": 10,
+    "meaning": "桌子，家具"
+  },
+  {
+    "character": "椅",
+    "pinyin": "yǐ",
+    "radical": "木",
+    "strokes": 12,
+    "meaning": "椅子，有靠背的坐具"
+  },
+  {
+    "character": "床",
+    "pinyin": "chuáng",
+    "radical": "广",
+    "strokes": 7,
+    "meaning": "供人睡觉的家具"
+  },
+  {
+    "character": "书",
+    "pinyin": "shū",
+    "radical": "乙",
+    "strokes": 4,
+    "meaning": "成本的著作；写字"
+  },
+  {
+    "character": "本",
+    "pinyin": "běn",
+    "radical": "木",
+    "strokes": 5,
+    "meaning": "草木的根；书本；本来"
+  },
+  {
+    "character": "笔",
+    "pinyin": "bǐ",
+    "radical": "竹",
+    "strokes": 10,
+    "meaning": "写字画图的工具；书写"
+  },
+  {
+    "character": "纸",
+    "pinyin": "zhǐ",
+    "radical": "纟",
+    "strokes": 7,
+    "meaning": "纸张，书写材料"
+  },
+  {
+    "character": "字",
+    "pinyin": "zì",
+    "radical": "子",
+    "strokes": 6,
+    "meaning": "文字；字音；姓氏"
+  },
+  {
+    "character": "词",
+    "pinyin": "cí",
+    "radical": "讠",
+    "strokes": 7,
+    "meaning": "语言中最小的造句单位"
+  },
+  {
+    "character": "句",
+    "pinyin": "jù",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "句子；量词"
+  },
+  {
+    "character": "文",
+    "pinyin": "wén",
+    "radical": "文",
+    "strokes": 4,
+    "meaning": "文字；文章；文明"
+  },
+  {
+    "character": "学",
+    "pinyin": "xué",
+    "radical": "子",
+    "strokes": 8,
+    "meaning": "学习；学校；学问"
+  },
+  {
+    "character": "校",
+    "pinyin": "xiào",
+    "radical": "木",
+    "strokes": 10,
+    "meaning": "学校；军衔名"
+  },
+  {
+    "character": "老",
+    "pinyin": "lǎo",
+    "radical": "耂",
+    "strokes": 6,
+    "meaning": "年岁大；陈旧的；很"
+  },
+  {
+    "character": "师",
+    "pinyin": "shī",
+    "radical": "巾",
+    "strokes": 6,
+    "meaning": "老师；榜样；军队"
+  },
+  {
+    "character": "生",
+    "pinyin": "shēng",
+    "radical": "生",
+    "strokes": 5,
+    "meaning": "生育；生长；学生；生命"
+  },
+  {
+    "character": "男",
+    "pinyin": "nán",
+    "radical": "田",
+    "strokes": 7,
+    "meaning": "男性；儿子"
+  },
+  {
+    "character": "女",
+    "pinyin": "nǚ",
+    "radical": "女",
+    "strokes": 3,
+    "meaning": "女性；女儿"
+  },
+  {
+    "character": "父",
+    "pinyin": "fù",
+    "radical": "父",
+    "strokes": 4,
+    "meaning": "父亲；对男性长辈的称呼"
+  },
+  {
+    "character": "母",
+    "pinyin": "mǔ",
+    "radical": "母",
+    "strokes": 5,
+    "meaning": "母亲；雌性的；根源"
+  },
+  {
+    "character": "子",
+    "pinyin": "zǐ",
+    "radical": "子",
+    "strokes": 3,
+    "meaning": "儿子；种子；幼小的"
+  },
+  {
+    "character": "儿",
+    "pinyin": "ér",
+    "radical": "儿",
+    "strokes": 2,
+    "meaning": "小孩子；儿子；年轻的人"
+  },
+  {
+    "character": "哥",
+    "pinyin": "gē",
+    "radical": "口",
+    "strokes": 10,
+    "meaning": "哥哥；对同辈男子的尊称"
+  },
+  {
+    "character": "姐",
+    "pinyin": "jiě",
+    "radical": "女",
+    "strokes": 8,
+    "meaning": "姐姐；年轻女子"
+  },
+  {
+    "character": "弟",
+    "pinyin": "dì",
+    "radical": "弓",
+    "strokes": 7,
+    "meaning": "弟弟；朋友间的谦称"
+  },
+  {
+    "character": "妹",
+    "pinyin": "mèi",
+    "radical": "女",
+    "strokes": 8,
+    "meaning": "妹妹；年轻女子"
+  },
+  {
+    "character": "朋",
+    "pinyin": "péng",
+    "radical": "月",
+    "strokes": 8,
+    "meaning": "朋友；结党"
+  },
+  {
+    "character": "友",
+    "pinyin": "yǒu",
+    "radical": "又",
+    "strokes": 4,
+    "meaning": "朋友；友好；相好"
+  },
+  {
+    "character": "同",
+    "pinyin": "tóng",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "一样；共同；同志"
+  },
+  {
+    "character": "吃",
+    "pinyin": "chī",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "把食物放入嘴中咽下；依靠"
+  },
+  {
+    "character": "喝",
+    "pinyin": "hē",
+    "radical": "口",
+    "strokes": 12,
+    "meaning": "把液体饮料咽下去"
+  },
+  {
+    "character": "饭",
+    "pinyin": "fàn",
+    "radical": "饣",
+    "strokes": 7,
+    "meaning": "煮熟的谷类食品；每日定时吃的食物"
+  },
+  {
+    "character": "菜",
+    "pinyin": "cài",
+    "radical": "艹",
+    "strokes": 11,
+    "meaning": "蔬菜；经过烹调的副食"
+  },
+  {
+    "character": "茶",
+    "pinyin": "chá",
+    "radical": "艹",
+    "strokes": 9,
+    "meaning": "茶树；用茶叶沏成的饮料"
+  },
+  {
+    "character": "米",
+    "pinyin": "mǐ",
+    "radical": "米",
+    "strokes": 6,
+    "meaning": "稻米；泛指谷物；像米的东西"
+  },
+  {
+    "character": "面",
+    "pinyin": "miàn",
+    "radical": "面",
+    "strokes": 9,
+    "meaning": "脸；粮食磨成的粉；方面"
+  },
+  {
+    "character": "肉",
+    "pinyin": "ròu",
+    "radical": "肉",
+    "strokes": 6,
+    "meaning": "人或动物体内紧贴皮的部分"
+  },
+  {
+    "character": "鱼",
+    "pinyin": "yú",
+    "radical": "鱼",
+    "strokes": 8,
+    "meaning": "生活在水中的脊椎动物"
+  },
+  {
+    "character": "鸟",
+    "pinyin": "niǎo",
+    "radical": "鸟",
+    "strokes": 5,
+    "meaning": "脊椎动物，卵生，有羽毛"
+  },
+  {
+    "character": "马",
+    "pinyin": "mǎ",
+    "radical": "马",
+    "strokes": 3,
+    "meaning": "家畜，可供骑乘拉车"
+  },
+  {
+    "character": "牛",
+    "pinyin": "niú",
+    "radical": "牛",
+    "strokes": 4,
+    "meaning": "家畜，力大，可供役用"
+  },
+  {
+    "character": "羊",
+    "pinyin": "yáng",
+    "radical": "羊",
+    "strokes": 6,
+    "meaning": "家畜，角弯曲，肉可吃"
+  },
+  {
+    "character": "狗",
+    "pinyin": "gǒu",
+    "radical": "犭",
+    "strokes": 8,
+    "meaning": "家畜，听觉嗅觉灵敏"
+  },
+  {
+    "character": "猫",
+    "pinyin": "māo",
+    "radical": "犭",
+    "strokes": 11,
+    "meaning": "家畜，善捕鼠"
+  },
+  {
+    "character": "花",
+    "pinyin": "huā",
+    "radical": "艹",
+    "strokes": 7,
+    "meaning": "植物的繁殖器官；像花的东西"
+  },
+  {
+    "character": "草",
+    "pinyin": "cǎo",
+    "radical": "艹",
+    "strokes": 9,
+    "meaning": "高等植物中栽培植物以外的草本植物"
+  },
+  {
+    "character": "树",
+    "pinyin": "shù",
+    "radical": "木",
+    "strokes": 9,
+    "meaning": "木本植物的通称"
+  },
+  {
+    "character": "叶",
+    "pinyin": "yè",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "植物的营养器官之一；书页"
+  },
+  {
+    "character": "根",
+    "pinyin": "gēn",
+    "radical": "木",
+    "strokes": 10,
+    "meaning": "植物地下部分；根源；彻底"
+  },
+  {
+    "character": "果",
+    "pinyin": "guǒ",
+    "radical": "木",
+    "strokes": 8,
+    "meaning": "植物的果实；结果；果断"
+  },
+  {
+    "character": "种",
+    "pinyin": "zhǒng",
+    "radical": "禾",
+    "strokes": 9,
+    "meaning": "植物的种子；种类；人种"
+  },
+  {
+    "character": "买",
+    "pinyin": "mǎi",
+    "radical": "乙",
+    "strokes": 6,
+    "meaning": "拿钱换东西"
+  },
+  {
+    "character": "卖",
+    "pinyin": "mài",
+    "radical": "十",
+    "strokes": 8,
+    "meaning": "拿东西换钱；背叛；尽量使出"
+  },
+  {
+    "character": "钱",
+    "pinyin": "qián",
+    "radical": "钅",
+    "strokes": 10,
+    "meaning": "货币；费用；形状像钱的东西"
+  },
+  {
+    "character": "元",
+    "pinyin": "yuán",
+    "radical": "儿",
+    "strokes": 4,
+    "meaning": "头；开始的；货币单位"
+  },
+  {
+    "character": "角",
+    "pinyin": "jiǎo",
+    "radical": "角",
+    "strokes": 7,
+    "meaning": "牛、羊等头上长的坚硬东西；钱币单位"
+  },
+  {
+    "character": "分",
+    "pinyin": "fēn",
+    "radical": "刀",
+    "strokes": 4,
+    "meaning": "分开；分配；辨别；分数"
+  },
+  {
+    "character": "步",
+    "pinyin": "bù",
+    "radical": "止",
+    "strokes": 7,
+    "meaning": "脚步；阶段；境地"
+  },
+  {
+    "character": "走",
+    "pinyin": "zǒu",
+    "radical": "走",
+    "strokes": 7,
+    "meaning": "步行；离去；运转"
+  },
+  {
+    "character": "跑",
+    "pinyin": "pǎo",
+    "radical": "足",
+    "strokes": 12,
+    "meaning": "两脚或四肢迅速前进；为某种事物奔走"
+  },
+  {
+    "character": "跳",
+    "pinyin": "tiào",
+    "radical": "足",
+    "strokes": 13,
+    "meaning": "两脚离地全身向上或向前的动作"
+  },
+  {
+    "character": "飞",
+    "pinyin": "fēi",
+    "radical": "飞",
+    "strokes": 3,
+    "meaning": "鸟、虫等鼓动翅膀在空中往来活动"
+  },
+  {
+    "character": "来",
+    "pinyin": "lái",
+    "radical": "一",
+    "strokes": 7,
+    "meaning": "由另一方面到这一方面；发生"
+  },
+  {
+    "character": "去",
+    "pinyin": "qù",
+    "radical": "厶",
+    "strokes": 5,
+    "meaning": "从所在地到别的地方；除掉；距离"
+  },
+  {
+    "character": "进",
+    "pinyin": "jìn",
+    "radical": "辶",
+    "strokes": 7,
+    "meaning": "向前移动；收入；呈上"
+  },
+  {
+    "character": "出",
+    "pinyin": "chū",
+    "radical": "凵",
+    "strokes": 5,
+    "meaning": "从里面到外面；来到；超出"
+  },
+  {
+    "character": "回",
+    "pinyin": "huí",
+    "radical": "囗",
+    "strokes": 6,
+    "meaning": "回来；答复；掉转"
+  },
+  {
+    "character": "到",
+    "pinyin": "dào",
+    "radical": "刂",
+    "strokes": 8,
+    "meaning": "到达；往；周到"
+  },
+  {
+    "character": "住",
+    "pinyin": "zhù",
+    "radical": "亻",
+    "strokes": 7,
+    "meaning": "长期居留或短暂歇息；停住"
+  },
+  {
+    "character": "家",
+    "pinyin": "jiā",
+    "radical": "宀",
+    "strokes": 10,
+    "meaning": "家庭；家庭的住所；掌握某种专门知识的人"
+  },
+  {
+    "character": "国",
+    "pinyin": "guó",
+    "radical": "囗",
+    "strokes": 8,
+    "meaning": "国家；代表国家的；本国的"
+  },
+  {
+    "character": "城",
+    "pinyin": "chéng",
+    "radical": "土",
+    "strokes": 9,
+    "meaning": "城市；城墙"
+  },
+  {
+    "character": "乡",
+    "pinyin": "xiāng",
+    "radical": "乙",
+    "strokes": 3,
+    "meaning": "乡村；自己生长的地方"
+  },
+  {
+    "character": "村",
+    "pinyin": "cūn",
+    "radical": "木",
+    "strokes": 7,
+    "meaning": "村庄，乡民聚集的地方"
+  },
+  {
+    "character": "路",
+    "pinyin": "lù",
+    "radical": "足",
+    "strokes": 13,
+    "meaning": "道路；路程；条理"
+  },
+  {
+    "character": "街",
+    "pinyin": "jiē",
+    "radical": "行",
+    "strokes": 12,
+    "meaning": "两边有房屋的比较宽阔的道路"
+  },
+  {
+    "character": "车",
+    "pinyin": "chē",
+    "radical": "车",
+    "strokes": 4,
+    "meaning": "陆地交通工具；用轮轴转动的器具"
+  },
+  {
+    "character": "船",
+    "pinyin": "chuán",
+    "radical": "舟",
+    "strokes": 11,
+    "meaning": "水上交通工具"
+  },
+  {
+    "character": "红",
+    "pinyin": "hóng",
+    "radical": "纟",
+    "strokes": 6,
+    "meaning": "像鲜血的颜色；象征喜庆"
+  },
+  {
+    "character": "黄",
+    "pinyin": "huáng",
+    "radical": "黄",
+    "strokes": 11,
+    "meaning": "像金子或向日葵花的颜色；黄河"
+  },
+  {
+    "character": "蓝",
+    "pinyin": "lán",
+    "radical": "艹",
+    "strokes": 13,
+    "meaning": "像晴天天空的颜色；蓼蓝"
+  },
+  {
+    "character": "绿",
+    "pinyin": "lǜ",
+    "radical": "纟",
+    "strokes": 11,
+    "meaning": "像草和树叶茂盛时的颜色"
+  },
+  {
+    "character": "白",
+    "pinyin": "bái",
+    "radical": "白",
+    "strokes": 5,
+    "meaning": "像霜或雪的颜色；清楚；空空的"
+  },
+  {
+    "character": "黑",
+    "pinyin": "hēi",
+    "radical": "黑",
+    "strokes": 12,
+    "meaning": "像墨和煤的颜色；暗；恶毒"
+  },
+  {
+    "character": "色",
+    "pinyin": "sè",
+    "radical": "色",
+    "strokes": 6,
+    "meaning": "颜色；脸色；景象"
+  },
+  {
+    "character": "声",
+    "pinyin": "shēng",
+    "radical": "士",
+    "strokes": 7,
+    "meaning": "声音；宣布；名誉"
+  },
+  {
+    "character": "音",
+    "pinyin": "yīn",
+    "radical": "音",
+    "strokes": 9,
+    "meaning": "声音；消息；音节"
+  },
+  {
+    "character": "听",
+    "pinyin": "tīng",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "用耳朵接受声音；听从"
+  },
+  {
+    "character": "说",
+    "pinyin": "shuō",
+    "radical": "讠",
+    "strokes": 9,
+    "meaning": "用话来表达意思；言论；介绍"
+  },
+  {
+    "character": "读",
+    "pinyin": "dú",
+    "radical": "讠",
+    "strokes": 10,
+    "meaning": "看着文字念出声音；阅读"
+  },
+  {
+    "character": "写",
+    "pinyin": "xiě",
+    "radical": "冖",
+    "strokes": 5,
+    "meaning": "用笔在纸上或其他东西上做字；写作"
+  },
+  {
+    "character": "看",
+    "pinyin": "kàn",
+    "radical": "目",
+    "strokes": 9,
+    "meaning": "使视线接触人或物；观察；诊治"
+  },
+  {
+    "character": "见",
+    "pinyin": "jiàn",
+    "radical": "见",
+    "strokes": 4,
+    "meaning": "看到；接触；看得出"
+  },
+  {
+    "character": "闻",
+    "pinyin": "wén",
+    "radical": "门",
+    "strokes": 9,
+    "meaning": "听见；听见的事情；用鼻子嗅"
+  },
+  {
+    "character": "知",
+    "pinyin": "zhī",
+    "radical": "矢",
+    "strokes": 8,
+    "meaning": "知道；使知道；知识"
+  },
+  {
+    "character": "道",
+    "pinyin": "dào",
+    "radical": "辶",
+    "strokes": 12,
+    "meaning": "道路；方向；方法；说"
+  },
+  {
+    "character": "理",
+    "pinyin": "lǐ",
+    "radical": "王",
+    "strokes": 11,
+    "meaning": "物质本身的纹路；道理；管理"
+  },
+  {
+    "character": "德",
+    "pinyin": "dé",
+    "radical": "彳",
+    "strokes": 15,
+    "meaning": "道德；心意；恩惠"
+  },
+  {
+    "character": "法",
+    "pinyin": "fǎ",
+    "radical": "氵",
+    "strokes": 8,
+    "meaning": "体现统治阶级意志的规则；方法；仿效"
+  },
+  {
+    "character": "律",
+    "pinyin": "lǜ",
+    "radical": "彳",
+    "strokes": 9,
+    "meaning": "法律；约束；规律"
+  },
+  {
+    "character": "规",
+    "pinyin": "guī",
+    "radical": "见",
+    "strokes": 8,
+    "meaning": "圆规；规则；劝告"
+  },
+  {
+    "character": "则",
+    "pinyin": "zé",
+    "radical": "刂",
+    "strokes": 6,
+    "meaning": "规范；法则；量词"
+  },
+  {
+    "character": "是",
+    "pinyin": "shì",
+    "radical": "日",
+    "strokes": 9,
+    "meaning": "表示肯定；这；正确"
+  },
+  {
+    "character": "非",
+    "pinyin": "fēi",
+    "radical": "非",
+    "strokes": 8,
+    "meaning": "不对；不和；认为不对"
+  },
+  {
+    "character": "好",
+    "pinyin": "hǎo",
+    "radical": "女",
+    "strokes": 6,
+    "meaning": "优点多的；友善；完毕"
+  },
+  {
+    "character": "坏",
+    "pinyin": "huài",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "品质恶劣；损坏；质量差"
+  },
+  {
+    "character": "多",
+    "pinyin": "duō",
+    "radical": "夕",
+    "strokes": 6,
+    "meaning": "数量大；超出；过分的"
+  },
+  {
+    "character": "少",
+    "pinyin": "shǎo",
+    "radical": "小",
+    "strokes": 4,
+    "meaning": "数量小；缺；稍微"
+  },
+  {
+    "character": "高",
+    "pinyin": "gāo",
+    "radical": "高",
+    "strokes": 10,
+    "meaning": "从下向上距离大；高度；等级在上"
+  },
+  {
+    "character": "矮",
+    "pinyin": "ǎi",
+    "radical": "矢",
+    "strokes": 13,
+    "meaning": "人的身材短；高度小"
+  },
+  {
+    "character": "长",
+    "pinyin": "cháng",
+    "radical": "长",
+    "strokes": 4,
+    "meaning": "两端距离大；长度；长处"
+  },
+  {
+    "character": "短",
+    "pinyin": "duǎn",
+    "radical": "矢",
+    "strokes": 12,
+    "meaning": "两端距离小；缺少；缺点"
+  },
+  {
+    "character": "远",
+    "pinyin": "yuǎn",
+    "radical": "辶",
+    "strokes": 7,
+    "meaning": "距离长；时间久；疏远"
+  },
+  {
+    "character": "近",
+    "pinyin": "jìn",
+    "radical": "辶",
+    "strokes": 7,
+    "meaning": "距离短；现在不久以前；亲密"
+  },
+  {
+    "character": "快",
+    "pinyin": "kuài",
+    "radical": "忄",
+    "strokes": 7,
+    "meaning": "速度大；高兴；锋利"
+  },
+  {
+    "character": "慢",
+    "pinyin": "màn",
+    "radical": "忄",
+    "strokes": 14,
+    "meaning": "速度小；态度冷淡；懈怠"
+  },
+  {
+    "character": "新",
+    "pinyin": "xīn",
+    "radical": "斤",
+    "strokes": 13,
+    "meaning": "刚有的；新鲜的；昨天以前的"
+  },
+  {
+    "character": "旧",
+    "pinyin": "jiù",
+    "radical": "日",
+    "strokes": 5,
+    "meaning": "过去的；过时的；老交情"
+  },
+  {
+    "character": "早",
+    "pinyin": "zǎo",
+    "radical": "日",
+    "strokes": 6,
+    "meaning": "早晨；很久以前；时间靠前"
+  },
+  {
+    "character": "晚",
+    "pinyin": "wǎn",
+    "radical": "日",
+    "strokes": 11,
+    "meaning": "太阳落了的时候；时间靠后；后来的"
+  },
+  {
+    "character": "真",
+    "pinyin": "zhēn",
+    "radical": "目",
+    "strokes": 10,
+    "meaning": "真实；的确；清楚"
+  },
+  {
+    "character": "假",
+    "pinyin": "jiǎ",
+    "radical": "亻",
+    "strokes": 11,
+    "meaning": "不真实的；借用；假定"
+  },
+  {
+    "character": "对",
+    "pinyin": "duì",
+    "radical": "寸",
+    "strokes": 5,
+    "meaning": "回答；向着；正确；对待"
+  },
+  {
+    "character": "错",
+    "pinyin": "cuò",
+    "radical": "钅",
+    "strokes": 13,
+    "meaning": "不对；交叉；磨刀石"
+  },
+  {
+    "character": "难",
+    "pinyin": "nán",
+    "radical": "隹",
+    "strokes": 10,
+    "meaning": "不容易；使人感到困难；不好"
+  },
+  {
+    "character": "易",
+    "pinyin": "yì",
+    "radical": "日",
+    "strokes": 8,
+    "meaning": "容易；平和；改变；交换"
+  },
+  {
+    "character": "爱",
+    "pinyin": "ài",
+    "radical": "爫",
+    "strokes": 10,
+    "meaning": "对人或事物有深挚的感情；喜好"
+  },
+  {
+    "character": "恨",
+    "pinyin": "hèn",
+    "radical": "忄",
+    "strokes": 9,
+    "meaning": "对人或事物的敌对或仇视；遗憾"
+  },
+  {
+    "character": "喜",
+    "pinyin": "xǐ",
+    "radical": "口",
+    "strokes": 12,
+    "meaning": "快乐；爱好；庆贺"
+  },
+  {
+    "character": "怒",
+    "pinyin": "nù",
+    "radical": "心",
+    "strokes": 9,
+    "meaning": "生气；气势盛"
+  },
+  {
+    "character": "悲",
+    "pinyin": "bēi",
+    "radical": "心",
+    "strokes": 12,
+    "meaning": "伤心；怜悯"
+  },
+  {
+    "character": "乐",
+    "pinyin": "lè",
+    "radical": "丿",
+    "strokes": 5,
+    "meaning": "快乐；乐于；笑"
+  },
+  {
+    "character": "哭",
+    "pinyin": "kū",
+    "radical": "口",
+    "strokes": 10,
+    "meaning": "因痛苦悲哀或感情激动而流泪"
+  },
+  {
+    "character": "笑",
+    "pinyin": "xiào",
+    "radical": "竹",
+    "strokes": 10,
+    "meaning": "露出愉快的表情；讥笑"
+  },
+  {
+    "character": "坐",
+    "pinyin": "zuò",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "把臀部放在椅子等物体上；乘"
+  },
+  {
+    "character": "立",
+    "pinyin": "lì",
+    "radical": "立",
+    "strokes": 5,
+    "meaning": "站；竖起；建立；制定"
+  },
+  {
+    "character": "卧",
+    "pinyin": "wò",
+    "radical": "臣",
+    "strokes": 8,
+    "meaning": "躺下；使婴儿趴下；睡觉"
+  },
+  {
+    "character": "睡",
+    "pinyin": "shuì",
+    "radical": "目",
+    "strokes": 13,
+    "meaning": "闭目安息，大脑皮质处于休息状态"
+  },
+  {
+    "character": "觉",
+    "pinyin": "jué",
+    "radical": "见",
+    "strokes": 9,
+    "meaning": "醒悟；感到；睡醒"
+  },
+  {
+    "character": "梦",
+    "pinyin": "mèng",
+    "radical": "夕",
+    "strokes": 11,
+    "meaning": "睡眠时脑中产生的幻象；做梦"
+  },
+  {
+    "character": "休",
+    "pinyin": "xiū",
+    "radical": "亻",
+    "strokes": 6,
+    "meaning": "歇息；停止；不要"
+  },
+  {
+    "character": "息",
+    "pinyin": "xī",
+    "radical": "心",
+    "strokes": 10,
+    "meaning": "呼吸时进出的气；停止；消息"
+  },
+  {
+    "character": "工",
+    "pinyin": "gōng",
+    "radical": "工",
+    "strokes": 3,
+    "meaning": "工人；工作；工程；精巧"
+  },
+  {
+    "character": "作",
+    "pinyin": "zuò",
+    "radical": "亻",
+    "strokes": 7,
+    "meaning": "起；从事某种活动；作品"
+  },
+  {
+    "character": "事",
+    "pinyin": "shì",
+    "radical": "亅",
+    "strokes": 8,
+    "meaning": "事情；职业；事故"
+  },
+  {
+    "character": "业",
+    "pinyin": "yè",
+    "radical": "业",
+    "strokes": 5,
+    "meaning": "行业；职业；学业；财产"
+  },
+  {
+    "character": "务",
+    "pinyin": "wù",
+    "radical": "力",
+    "strokes": 5,
+    "meaning": "事情；从事；致力"
+  },
+  {
+    "character": "劳",
+    "pinyin": "láo",
+    "radical": "力",
+    "strokes": 7,
+    "meaning": "劳动；辛苦；疲劳"
+  },
+  {
+    "character": "勤",
+    "pinyin": "qín",
+    "radical": "力",
+    "strokes": 13,
+    "meaning": "做事尽力；经常；勤务"
+  },
+  {
+    "character": "懒",
+    "pinyin": "lǎn",
+    "radical": "忄",
+    "strokes": 16,
+    "meaning": "怠惰；疲倦；没兴趣"
+  },
+  {
+    "character": "报",
+    "pinyin": "bào",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "告诉；报纸；报答；报复"
+  },
+  {
+    "character": "信",
+    "pinyin": "xìn",
+    "radical": "亻",
+    "strokes": 9,
+    "meaning": "诚实；相信；消息；信件"
+  },
+  {
+    "character": "封",
+    "pinyin": "fēng",
+    "radical": "寸",
+    "strokes": 9,
+    "meaning": "密闭；封起来的或用来封东西的纸包；量词"
+  },
+  {
+    "character": "邮",
+    "pinyin": "yóu",
+    "radical": "阝",
+    "strokes": 7,
+    "meaning": "由国家专设的机构传递信件；邮费"
+  },
+  {
+    "character": "递",
+    "pinyin": "dì",
+    "radical": "辶",
+    "strokes": 10,
+    "meaning": "传送；顺次序；顺着"
+  },
+  {
+    "character": "达",
+    "pinyin": "dá",
+    "radical": "辶",
+    "strokes": 6,
+    "meaning": "通；到；实现；显赫"
+  },
+  {
+    "character": "通",
+    "pinyin": "tōng",
+    "radical": "辶",
+    "strokes": 10,
+    "meaning": "没有阻碍；到达；懂得；贯通"
+  },
+  {
+    "character": "过",
+    "pinyin": "guò",
+    "radical": "辶",
+    "strokes": 6,
+    "meaning": "从这儿到那儿；经过；超过；过失"
+  },
+  {
+    "character": "及",
+    "pinyin": "jí",
+    "radical": "又",
+    "strokes": 3,
+    "meaning": "赶上；达到；比得上；和"
+  },
+  {
+    "character": "至",
+    "pinyin": "zhì",
+    "radical": "至",
+    "strokes": 6,
+    "meaning": "到；极；最"
+  },
+  {
+    "character": "致",
+    "pinyin": "zhì",
+    "radical": "至",
+    "strokes": 10,
+    "meaning": "给予；招致；精巧；意态"
+  },
+  {
+    "character": "用",
+    "pinyin": "yòng",
+    "radical": "用",
+    "strokes": 5,
+    "meaning": "使用；功用；需要"
+  },
+  {
+    "character": "以",
+    "pinyin": "yǐ",
+    "radical": "人",
+    "strokes": 4,
+    "meaning": "用；依；因；于"
+  },
+  {
+    "character": "于",
+    "pinyin": "yú",
+    "radical": "二",
+    "strokes": 3,
+    "meaning": "在；对于；向；给"
+  },
+  {
+    "character": "自",
+    "pinyin": "zì",
+    "radical": "自",
+    "strokes": 6,
+    "meaning": "自己；自然；从"
+  },
+  {
+    "character": "由",
+    "pinyin": "yóu",
+    "radical": "田",
+    "strokes": 5,
+    "meaning": "原因；顺随；经过；凭借"
+  },
+  {
+    "character": "从",
+    "pinyin": "cóng",
+    "radical": "人",
+    "strokes": 4,
+    "meaning": "跟随；顺从；介词，自从"
+  },
+  {
+    "character": "向",
+    "pinyin": "xiàng",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "方向；对着；将近"
+  },
+  {
+    "character": "往",
+    "pinyin": "wǎng",
+    "radical": "彳",
+    "strokes": 8,
+    "meaning": "去；向（某处去）；过去的"
+  },
+  {
+    "character": "当",
+    "pinyin": "dāng",
+    "radical": "小",
+    "strokes": 6,
+    "meaning": "相称；面对着；充当；应该"
+  },
+  {
+    "character": "应",
+    "pinyin": "yīng",
+    "radical": "广",
+    "strokes": 7,
+    "meaning": "该；当；答应；应付"
+  },
+  {
+    "character": "该",
+    "pinyin": "gāi",
+    "radical": "讠",
+    "strokes": 8,
+    "meaning": "应当；那；欠"
+  },
+  {
+    "character": "须",
+    "pinyin": "xū",
+    "radical": "页",
+    "strokes": 9,
+    "meaning": "必定；等待；须要"
+  },
+  {
+    "character": "必",
+    "pinyin": "bì",
+    "radical": "心",
+    "strokes": 5,
+    "meaning": "一定；必须"
+  },
+  {
+    "character": "末",
+    "pinyin": "mò",
+    "radical": "木",
+    "strokes": 5,
+    "meaning": "树梢；尽头；最后；碎末"
+  },
+  {
+    "character": "未",
+    "pinyin": "wèi",
+    "radical": "木",
+    "strokes": 5,
+    "meaning": "不；不曾；还没"
+  },
+  {
+    "character": "内",
+    "pinyin": "nèi",
+    "radical": "冂",
+    "strokes": 4,
+    "meaning": "里面；妻子或妻子的亲属"
+  },
+  {
+    "character": "外",
+    "pinyin": "wài",
+    "radical": "夕",
+    "strokes": 5,
+    "meaning": "与内相对；不是自己所在的；外国"
+  },
+  {
+    "character": "旁",
+    "pinyin": "páng",
+    "radical": "方",
+    "strokes": 10,
+    "meaning": "边侧；其他的"
+  },
+  {
+    "character": "边",
+    "pinyin": "biān",
+    "radical": "辶",
+    "strokes": 5,
+    "meaning": "边缘；方面；靠近"
+  },
+  {
+    "character": "顶",
+    "pinyin": "dǐng",
+    "radical": "页",
+    "strokes": 8,
+    "meaning": "最高的；用头支承；相当"
+  },
+  {
+    "character": "底",
+    "pinyin": "dǐ",
+    "radical": "广",
+    "strokes": 8,
+    "meaning": "最下面的；末尾；根源"
+  },
+  {
+    "character": "端",
+    "pinyin": "duān",
+    "radical": "立",
+    "strokes": 14,
+    "meaning": "正；东西的一头；项目"
+  },
+  {
+    "character": "头",
+    "pinyin": "tóu",
+    "radical": "大",
+    "strokes": 5,
+    "meaning": "人身最上部；物体的顶端；物品的残余部分"
+  },
+  {
+    "character": "脑",
+    "pinyin": "nǎo",
+    "radical": "月",
+    "strokes": 10,
+    "meaning": "高等动物神经系统的主要部分；脑筋"
+  },
+  {
+    "character": "眼",
+    "pinyin": "yǎn",
+    "radical": "目",
+    "strokes": 11,
+    "meaning": "视觉器官；孔洞；关键"
+  },
+  {
+    "character": "耳",
+    "pinyin": "ěr",
+    "radical": "耳",
+    "strokes": 6,
+    "meaning": "听觉器官；形状像耳的东西"
+  },
+  {
+    "character": "鼻",
+    "pinyin": "bí",
+    "radical": "鼻",
+    "strokes": 14,
+    "meaning": "嗅觉器官；开端"
+  },
+  {
+    "character": "舌",
+    "pinyin": "shé",
+    "radical": "舌",
+    "strokes": 6,
+    "meaning": "味觉器官；像舌的东西"
+  },
+  {
+    "character": "牙",
+    "pinyin": "yá",
+    "radical": "牙",
+    "strokes": 4,
+    "meaning": "牙齿；像牙齿的东西"
+  },
+  {
+    "character": "齿",
+    "pinyin": "chǐ",
+    "radical": "齿",
+    "strokes": 8,
+    "meaning": "牙齿；排列像牙齿的东西；年龄"
+  },
+  {
+    "character": "发",
+    "pinyin": "fà",
+    "radical": "又",
+    "strokes": 5,
+    "meaning": "头发；表达；产生"
+  },
+  {
+    "character": "指",
+    "pinyin": "zhǐ",
+    "radical": "扌",
+    "strokes": 9,
+    "meaning": "手指；指向；直立；指点"
+  },
+  {
+    "character": "掌",
+    "pinyin": "zhǎng",
+    "radical": "手",
+    "strokes": 12,
+    "meaning": "手心；掌管；鞋底钉"
+  },
+  {
+    "character": "脚",
+    "pinyin": "jiǎo",
+    "radical": "月",
+    "strokes": 11,
+    "meaning": "人或动物的腿的下端；物体的底部"
+  },
+  {
+    "character": "腿",
+    "pinyin": "tuǐ",
+    "radical": "月",
+    "strokes": 13,
+    "meaning": "下肢；器物下部像腿的支撑部分"
+  },
+  {
+    "character": "身",
+    "pinyin": "shēn",
+    "radical": "身",
+    "strokes": 7,
+    "meaning": "身体；指生命；自己；地位"
+  },
+  {
+    "character": "体",
+    "pinyin": "tǐ",
+    "radical": "亻",
+    "strokes": 7,
+    "meaning": "身体；物体；样式；体制"
+  },
+  {
+    "character": "骨",
+    "pinyin": "gǔ",
+    "radical": "骨",
+    "strokes": 9,
+    "meaning": "骨头；像骨的东西；品质"
+  },
+  {
+    "character": "血",
+    "pinyin": "xuè",
+    "radical": "血",
+    "strokes": 6,
+    "meaning": "血液；有血缘关系的"
+  },
+  {
+    "character": "脉",
+    "pinyin": "mài",
+    "radical": "月",
+    "strokes": 9,
+    "meaning": "血管；脉搏；像血管一样连贯的东西"
+  },
+  {
+    "character": "脏",
+    "pinyin": "zàng",
+    "radical": "月",
+    "strokes": 10,
+    "meaning": "内脏；不干净"
+  },
+  {
+    "character": "肝",
+    "pinyin": "gān",
+    "radical": "月",
+    "strokes": 7,
+    "meaning": "肝脏；比喻事物的内心"
+  },
+  {
+    "character": "肺",
+    "pinyin": "fèi",
+    "radical": "月",
+    "strokes": 8,
+    "meaning": "肺脏；比喻内心"
+  },
+  {
+    "character": "胃",
+    "pinyin": "wèi",
+    "radical": "胃",
+    "strokes": 9,
+    "meaning": "消化器官；胃口"
+  },
+  {
+    "character": "肠",
+    "pinyin": "cháng",
+    "radical": "月",
+    "strokes": 7,
+    "meaning": "消化器官的一部分"
+  },
+  {
+    "character": "胆",
+    "pinyin": "dǎn",
+    "radical": "月",
+    "strokes": 9,
+    "meaning": "胆囊；胆量"
+  },
+  {
+    "character": "神",
+    "pinyin": "shén",
+    "radical": "礻",
+    "strokes": 9,
+    "meaning": "宗教指天地万物的创造者；特别高超的；精力"
+  },
+  {
+    "character": "鬼",
+    "pinyin": "guǐ",
+    "radical": "鬼",
+    "strokes": 9,
+    "meaning": "迷信者称人死后的灵魂；阴险；不好的主意"
+  },
+  {
+    "character": "仙",
+    "pinyin": "xiān",
+    "radical": "亻",
+    "strokes": 5,
+    "meaning": "神话中称有特殊能力的人；仙人"
+  },
+  {
+    "character": "佛",
+    "pinyin": "fó",
+    "radical": "亻",
+    "strokes": 7,
+    "meaning": "梵语译音；佛教徒称释迦牟尼"
+  },
+  {
+    "character": "庙",
+    "pinyin": "miào",
+    "radical": "广",
+    "strokes": 8,
+    "meaning": "供奉祖先的地方；供神佛的地方；庙会"
+  },
+  {
+    "character": "寺",
+    "pinyin": "sì",
+    "radical": "寸",
+    "strokes": 6,
+    "meaning": "佛教出家人居住的地方；古代官署"
+  },
+  {
+    "character": "观",
+    "pinyin": "guān",
+    "radical": "见",
+    "strokes": 6,
+    "meaning": "看；景象；对事物的认识"
+  },
+  {
+    "character": "堂",
+    "pinyin": "táng",
+    "radical": "土",
+    "strokes": 11,
+    "meaning": "正房；专为某种活动用的房屋；同祖父的"
+  },
+  {
+    "character": "房",
+    "pinyin": "fáng",
+    "radical": "户",
+    "strokes": 8,
+    "meaning": "房子；房间；家族的分支"
+  },
+  {
+    "character": "屋",
+    "pinyin": "wū",
+    "radical": "尸",
+    "strokes": 9,
+    "meaning": "房子；房间"
+  },
+  {
+    "character": "楼",
+    "pinyin": "lóu",
+    "radical": "木",
+    "strokes": 13,
+    "meaning": "多层的建筑物；楼房的一层"
+  },
+  {
+    "character": "阁",
+    "pinyin": "gé",
+    "radical": "门",
+    "strokes": 9,
+    "meaning": "一种架空的小楼房；旧时指女子的住屋"
+  },
+  {
+    "character": "亭",
+    "pinyin": "tíng",
+    "radical": "亠",
+    "strokes": 9,
+    "meaning": "有顶无墙的建筑物；适中；正当"
+  },
+  {
+    "character": "台",
+    "pinyin": "tái",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "高平的建筑物；像台的东西；桌子"
+  },
+  {
+    "character": "阶",
+    "pinyin": "jiē",
+    "radical": "阝",
+    "strokes": 6,
+    "meaning": "台阶；等级；阶梯"
+  },
+  {
+    "character": "梯",
+    "pinyin": "tī",
+    "radical": "木",
+    "strokes": 11,
+    "meaning": "便利人上下的器具或设备；像梯的"
+  },
+  {
+    "character": "栏",
+    "pinyin": "lán",
+    "radical": "木",
+    "strokes": 9,
+    "meaning": "栏杆；养家畜的圈；报纸或刊物中用线条画出的部分"
+  },
+  {
+    "character": "杆",
+    "pinyin": "gān",
+    "radical": "木",
+    "strokes": 7,
+    "meaning": "较长的棍；器物的像棍的部分"
+  },
+  {
+    "character": "柱",
+    "pinyin": "zhù",
+    "radical": "木",
+    "strokes": 9,
+    "meaning": "柱子；像柱子的东西"
+  },
+  {
+    "character": "梁",
+    "pinyin": "liáng",
+    "radical": "木",
+    "strokes": 11,
+    "meaning": "架在墙上或柱子上支撑房顶的横木；桥"
+  },
+  {
+    "character": "栋",
+    "pinyin": "dòng",
+    "radical": "木",
+    "strokes": 9,
+    "meaning": "房屋的正梁；量词，指房屋"
+  },
+  {
+    "character": "材",
+    "pinyin": "cái",
+    "radical": "木",
+    "strokes": 7,
+    "meaning": "木料；材料；资料；有才能的人"
+  },
+  {
+    "character": "料",
+    "pinyin": "liào",
+    "radical": "米",
+    "strokes": 10,
+    "meaning": "推测；处理；可用来做成成品的东西"
+  },
+  {
+    "character": "品",
+    "pinyin": "pǐn",
+    "radical": "口",
+    "strokes": 9,
+    "meaning": "物品；等级；种类；品质"
+  },
+  {
+    "character": "物",
+    "pinyin": "wù",
+    "radical": "牛",
+    "strokes": 8,
+    "meaning": "东西；内容；自己以外的人或环境"
+  },
+  {
+    "character": "件",
+    "pinyin": "jiàn",
+    "radical": "亻",
+    "strokes": 6,
+    "meaning": "用于个体事物；指可以一一计算的事物"
+  },
+  {
+    "character": "个",
+    "pinyin": "gè",
+    "radical": "人",
+    "strokes": 3,
+    "meaning": "量词；单独的"
+  },
+  {
+    "character": "只",
+    "pinyin": "zhī",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "量词；单独的"
+  },
+  {
+    "character": "支",
+    "pinyin": "zhī",
+    "radical": "支",
+    "strokes": 4,
+    "meaning": "撑；分支；量词"
+  },
+  {
+    "character": "本3",
+    "pinyin": "běn",
+    "radical": "木",
+    "strokes": 5,
+    "meaning": "（重复）"
+  },
+  {
+    "character": "把",
+    "pinyin": "bǎ",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "握住；看守；量词；把手"
+  },
+  {
+    "character": "打",
+    "pinyin": "dǎ",
+    "radical": "扌",
+    "strokes": 5,
+    "meaning": "击；放出；做；建造；编织"
+  },
+  {
+    "character": "锁",
+    "pinyin": "suǒ",
+    "radical": "钅",
+    "strokes": 12,
+    "meaning": "锁头；用锁关住；锁链"
+  },
+  {
+    "character": "钥",
+    "pinyin": "yào",
+    "radical": "钅",
+    "strokes": 9,
+    "meaning": "钥匙"
+  },
+  {
+    "character": "匙",
+    "pinyin": "shi",
+    "radical": "匕",
+    "strokes": 11,
+    "meaning": "舀汤用的小勺子"
+  },
+  {
+    "character": "杯",
+    "pinyin": "bēi",
+    "radical": "木",
+    "strokes": 8,
+    "meaning": "盛饮料的器皿；杯状的奖品"
+  },
+  {
+    "character": "盘",
+    "pinyin": "pán",
+    "radical": "皿",
+    "strokes": 11,
+    "meaning": "盛放物品的浅底器具；回旋；仔细清查"
+  },
+  {
+    "character": "碗",
+    "pinyin": "wǎn",
+    "radical": "石",
+    "strokes": 12,
+    "meaning": "盛饮食的器具"
+  },
+  {
+    "character": "碟",
+    "pinyin": "dié",
+    "radical": "石",
+    "strokes": 14,
+    "meaning": "盛蔬菜、调味等的小盘子"
+  },
+  {
+    "character": "壶",
+    "pinyin": "hú",
+    "radical": "士",
+    "strokes": 10,
+    "meaning": "陶瓷或金属制成的有把有嘴的容器"
+  },
+  {
+    "character": "锅",
+    "pinyin": "guō",
+    "radical": "钅",
+    "strokes": 12,
+    "meaning": "烹煮食物的器具"
+  },
+  {
+    "character": "勺",
+    "pinyin": "sháo",
+    "radical": "勹",
+    "strokes": 3,
+    "meaning": "有柄的可以舀取东西的器具"
+  },
+  {
+    "character": "叉",
+    "pinyin": "chā",
+    "radical": "又",
+    "strokes": 3,
+    "meaning": "交错；叉子；叉形物"
+  },
+  {
+    "character": "刀",
+    "pinyin": "dāo",
+    "radical": "刀",
+    "strokes": 2,
+    "meaning": "切割工具；有刀的东西"
+  },
+  {
+    "character": "剑",
+    "pinyin": "jiàn",
+    "radical": "刂",
+    "strokes": 9,
+    "meaning": "古代兵器；宝剑"
+  },
+  {
+    "character": "弓",
+    "pinyin": "gōng",
+    "radical": "弓",
+    "strokes": 3,
+    "meaning": "射箭或发弹丸的器械；像弓的东西"
+  },
+  {
+    "character": "箭",
+    "pinyin": "jiàn",
+    "radical": "竹",
+    "strokes": 15,
+    "meaning": "古代兵器；箭能射及的范围"
+  },
+  {
+    "character": "枪",
+    "pinyin": "qiāng",
+    "radical": "木",
+    "strokes": 8,
+    "meaning": "长刺的兵器；发射子弹的武器"
+  },
+  {
+    "character": "炮",
+    "pinyin": "pào",
+    "radical": "火",
+    "strokes": 9,
+    "meaning": "火炮；爆竹；爆破土石的器械"
+  },
+  {
+    "character": "弹",
+    "pinyin": "dàn",
+    "radical": "弓",
+    "strokes": 11,
+    "meaning": "弹子；枪弹；炮弹"
+  },
+  {
+    "character": "药",
+    "pinyin": "yào",
+    "radical": "艹",
+    "strokes": 9,
+    "meaning": "可以治病的东西；有化学作用的物品"
+  },
+  {
+    "character": "医",
+    "pinyin": "yī",
+    "radical": "匚",
+    "strokes": 7,
+    "meaning": "医生；医学；医治"
+  },
+  {
+    "character": "病",
+    "pinyin": "bìng",
+    "radical": "疒",
+    "strokes": 10,
+    "meaning": "疾病；缺点；祸害"
+  },
+  {
+    "character": "痛",
+    "pinyin": "tòng",
+    "radical": "疒",
+    "strokes": 12,
+    "meaning": "疾病创伤引起的难受感觉；悲伤；尽情地"
+  },
+  {
+    "character": "伤",
+    "pinyin": "shāng",
+    "radical": "亻",
+    "strokes": 6,
+    "meaning": "人体或其他物体受到的损害；悲伤；妨碍"
+  },
+  {
+    "character": "寒",
+    "pinyin": "hán",
+    "radical": "宀",
+    "strokes": 12,
+    "meaning": "冷；害怕；穷困"
+  },
+  {
+    "character": "热",
+    "pinyin": "rè",
+    "radical": "灬",
+    "strokes": 10,
+    "meaning": "温度高；感觉热；生病引起的高体温；情意深"
+  },
+  {
+    "character": "冷",
+    "pinyin": "lěng",
+    "radical": "冫",
+    "strokes": 7,
+    "meaning": "温度低；不热情；寂静；生僻"
+  },
+  {
+    "character": "暖",
+    "pinyin": "nuǎn",
+    "radical": "日",
+    "strokes": 13,
+    "meaning": "暖和；使变温暖"
+  },
+  {
+    "character": "凉",
+    "pinyin": "liáng",
+    "radical": "冫",
+    "strokes": 10,
+    "meaning": "微寒；灰心；失望"
+  },
+  {
+    "character": "干",
+    "pinyin": "gān",
+    "radical": "干",
+    "strokes": 3,
+    "meaning": "触犯；追求；没有水分；空虚"
+  },
+  {
+    "character": "湿",
+    "pinyin": "shī",
+    "radical": "氵",
+    "strokes": 12,
+    "meaning": "沾了水或显出含水分多的"
+  },
+  {
+    "character": "净",
+    "pinyin": "jìng",
+    "radical": "冫",
+    "strokes": 8,
+    "meaning": "清洁；单纯；什么也没有"
+  },
+  {
+    "character": "美",
+    "pinyin": "měi",
+    "radical": "大",
+    "strokes": 9,
+    "meaning": "好看；使美丽；令人满意；得意"
+  },
+  {
+    "character": "丑",
+    "pinyin": "chǒu",
+    "radical": "一",
+    "strokes": 4,
+    "meaning": "相貌难看；可厌的；戏曲角色"
+  },
+  {
+    "character": "善",
+    "pinyin": "shàn",
+    "radical": "口",
+    "strokes": 12,
+    "meaning": "善良；善行；友好；擅长"
+  },
+  {
+    "character": "恶",
+    "pinyin": "è",
+    "radical": "心",
+    "strokes": 10,
+    "meaning": "很坏的行为；犯罪的事情；凶恶"
+  },
+  {
+    "character": "朝",
+    "pinyin": "zhāo",
+    "radical": "月",
+    "strokes": 12,
+    "meaning": "早晨；日；天"
+  },
+  {
+    "character": "夕",
+    "pinyin": "xī",
+    "radical": "夕",
+    "strokes": 3,
+    "meaning": "太阳落的时候；泛指晚上"
+  },
+  {
+    "character": "夜",
+    "pinyin": "yè",
+    "radical": "夕",
+    "strokes": 8,
+    "meaning": "从天黑到天亮的一段时间"
+  },
+  {
+    "character": "昼",
+    "pinyin": "zhòu",
+    "radical": "日",
+    "strokes": 9,
+    "meaning": "从天亮到天黑的一段时间"
+  },
+  {
+    "character": "晨",
+    "pinyin": "chén",
+    "radical": "日",
+    "strokes": 11,
+    "meaning": "清早，太阳出来的时候"
+  },
+  {
+    "character": "昏",
+    "pinyin": "hūn",
+    "radical": "日",
+    "strokes": 8,
+    "meaning": "天刚黑的时候；黑暗；神志不清"
+  },
+  {
+    "character": "晓",
+    "pinyin": "xiǎo",
+    "radical": "日",
+    "strokes": 10,
+    "meaning": "天刚亮；知道；使人知道"
+  },
+  {
+    "character": "曙",
+    "pinyin": "shǔ",
+    "radical": "日",
+    "strokes": 17,
+    "meaning": "天刚亮；光明"
+  },
+  {
+    "character": "年",
+    "pinyin": "nián",
+    "radical": "干",
+    "strokes": 6,
+    "meaning": "地球绕太阳一周的时间；每年的；岁数"
+  },
+  {
+    "character": "时",
+    "pinyin": "shí",
+    "radical": "日",
+    "strokes": 7,
+    "meaning": "时间；时候；现在的；季节"
+  },
+  {
+    "character": "秒",
+    "pinyin": "miǎo",
+    "radical": "禾",
+    "strokes": 9,
+    "meaning": "谷物种子壳上的芒；时间或角度的单位"
+  },
+  {
+    "character": "刻",
+    "pinyin": "kè",
+    "radical": "刂",
+    "strokes": 8,
+    "meaning": "雕；用刀子挖；时间；程度极深的"
+  },
+  {
+    "character": "钟",
+    "pinyin": "zhōng",
+    "radical": "钅",
+    "strokes": 9,
+    "meaning": "金属制成的响器；计时器；集中"
+  },
+  {
+    "character": "表",
+    "pinyin": "biǎo",
+    "radical": "衣",
+    "strokes": 8,
+    "meaning": "外面；表现；表格；计时的器具"
+  },
+  {
+    "character": "历",
+    "pinyin": "lì",
+    "radical": "厂",
+    "strokes": 4,
+    "meaning": "经历；经过了的；历法；记载年月日的书"
+  },
+  {
+    "character": "史",
+    "pinyin": "shǐ",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "自然界和人类社会发展的过程；古代掌管史事的官"
+  },
+  {
+    "character": "世",
+    "pinyin": "shì",
+    "radical": "一",
+    "strokes": 5,
+    "meaning": "时代；人的一生；世界；一代代相承"
+  },
+  {
+    "character": "代",
+    "pinyin": "dài",
+    "radical": "亻",
+    "strokes": 5,
+    "meaning": "代替；代理；历史的分期；世代"
+  },
+  {
+    "character": "纪",
+    "pinyin": "jì",
+    "radical": "纟",
+    "strokes": 6,
+    "meaning": "纪律；记年代的方式；法度"
+  },
+  {
+    "character": "万",
+    "pinyin": "wàn",
+    "radical": "一",
+    "strokes": 3,
+    "meaning": "数目，十个一千；很多；极"
+  },
+  {
+    "character": "千",
+    "pinyin": "qiān",
+    "radical": "十",
+    "strokes": 3,
+    "meaning": "数目，十个一百；比喻很多"
+  },
+  {
+    "character": "百",
+    "pinyin": "bǎi",
+    "radical": "白",
+    "strokes": 6,
+    "meaning": "数目，十个十；众多；完全"
+  },
+  {
+    "character": "亿",
+    "pinyin": "yì",
+    "radical": "亻",
+    "strokes": 3,
+    "meaning": "数目，一万万；古代指十万"
+  },
+  {
+    "character": "零",
+    "pinyin": "líng",
+    "radical": "雨",
+    "strokes": 13,
+    "meaning": "零碎；小数目的；数的空位"
+  },
+  {
+    "character": "半",
+    "pinyin": "bàn",
+    "radical": "十",
+    "strokes": 5,
+    "meaning": "二分之一；在...中间；很少"
+  },
+  {
+    "character": "双",
+    "pinyin": "shuāng",
+    "radical": "又",
+    "strokes": 4,
+    "meaning": "两个；成对的；偶数的"
+  },
+  {
+    "character": "单",
+    "pinyin": "dān",
+    "radical": "十",
+    "strokes": 8,
+    "meaning": "单独；薄弱；记载事物的纸页"
+  },
+  {
+    "character": "群",
+    "pinyin": "qún",
+    "radical": "羊",
+    "strokes": 13,
+    "meaning": "相聚的人或物；成群的"
+  },
+  {
+    "character": "众",
+    "pinyin": "zhòng",
+    "radical": "人",
+    "strokes": 6,
+    "meaning": "许多；许多人"
+  },
+  {
+    "character": "林",
+    "pinyin": "lín",
+    "radical": "木",
+    "strokes": 8,
+    "meaning": "成片的树木；聚集在一起的同类事物"
+  },
+  {
+    "character": "森",
+    "pinyin": "sēn",
+    "radical": "木",
+    "strokes": 12,
+    "meaning": "树木多；阴森"
+  },
+  {
+    "character": "岛",
+    "pinyin": "dǎo",
+    "radical": "山",
+    "strokes": 7,
+    "meaning": "江海或湖水中的陆地"
+  },
+  {
+    "character": "屿",
+    "pinyin": "yǔ",
+    "radical": "山",
+    "strokes": 3,
+    "meaning": "小岛"
+  },
+  {
+    "character": "洲",
+    "pinyin": "zhōu",
+    "radical": "氵",
+    "strokes": 9,
+    "meaning": "水中的陆地；大陆及其附近岛屿的总称"
+  },
+  {
+    "character": "洋",
+    "pinyin": "yáng",
+    "radical": "氵",
+    "strokes": 9,
+    "meaning": "广大的海域；盛大；现代化的"
+  },
+  {
+    "character": "海",
+    "pinyin": "hǎi",
+    "radical": "氵",
+    "strokes": 10,
+    "meaning": "靠近大陆比洋小的水域；巨大的"
+  },
+  {
+    "character": "河",
+    "pinyin": "hé",
+    "radical": "氵",
+    "strokes": 8,
+    "meaning": "水道的通称；特指黄河"
+  },
+  {
+    "character": "江",
+    "pinyin": "jiāng",
+    "radical": "氵",
+    "strokes": 6,
+    "meaning": "大河的通称；特指长江"
+  },
+  {
+    "character": "湖",
+    "pinyin": "hú",
+    "radical": "氵",
+    "strokes": 12,
+    "meaning": "被陆地围着的大片深水"
+  },
+  {
+    "character": "池",
+    "pinyin": "chí",
+    "radical": "氵",
+    "strokes": 6,
+    "meaning": "水塘；护城河；游泳池"
+  },
+  {
+    "character": "泉",
+    "pinyin": "quán",
+    "radical": "水",
+    "strokes": 9,
+    "meaning": "地下水的天然露头；钱币的古称"
+  },
+  {
+    "character": "井",
+    "pinyin": "jǐng",
+    "radical": "二",
+    "strokes": 4,
+    "meaning": "从地面往下凿成的能取水的深洞；形容整齐"
+  },
+  {
+    "character": "沟",
+    "pinyin": "gōu",
+    "radical": "氵",
+    "strokes": 7,
+    "meaning": "田间水道；像沟的东西"
+  },
+  {
+    "character": "渠",
+    "pinyin": "qú",
+    "radical": "木",
+    "strokes": 11,
+    "meaning": "人工开凿的水道；大"
+  },
+  {
+    "character": "滨",
+    "pinyin": "bīn",
+    "radical": "氵",
+    "strokes": 13,
+    "meaning": "水边；靠近（水边）"
+  },
+  {
+    "character": "冰",
+    "pinyin": "bīng",
+    "radical": "冫",
+    "strokes": 6,
+    "meaning": "水凝结成的固体；使人感到寒冷"
+  },
+  {
+    "character": "冻",
+    "pinyin": "dòng",
+    "radical": "冫",
+    "strokes": 7,
+    "meaning": "液体或含水分的东西遇冷凝固；汤汁等凝成的胶状物"
+  },
+  {
+    "character": "冲",
+    "pinyin": "chōng",
+    "radical": "冫",
+    "strokes": 6,
+    "meaning": "用水浇；向上钻；通行的大道"
+  },
+  {
+    "character": "决",
+    "pinyin": "jué",
+    "radical": "冫",
+    "strokes": 6,
+    "meaning": "排除阻塞；决定；一定"
+  },
+  {
+    "character": "况",
+    "pinyin": "kuàng",
+    "radical": "冫",
+    "strokes": 7,
+    "meaning": "情形；比方；更加"
+  },
+  {
+    "character": "次",
+    "pinyin": "cì",
+    "radical": "冫",
+    "strokes": 6,
+    "meaning": "顺序；第二；质量差的"
+  },
+  {
+    "character": "准",
+    "pinyin": "zhǔn",
+    "radical": "冫",
+    "strokes": 10,
+    "meaning": "允许；标准；依照；一定"
+  },
+  {
+    "character": "几",
+    "pinyin": "jǐ",
+    "radical": "几部",
+    "strokes": 2,
+    "meaning": "询问数量多少；接近"
+  },
+  {
+    "character": "凡",
+    "pinyin": "fán",
+    "radical": "几",
+    "strokes": 3,
+    "meaning": "平凡；凡是；大概"
+  },
+  {
+    "character": "凤",
+    "pinyin": "fèng",
+    "radical": "几",
+    "strokes": 4,
+    "meaning": "凤凰，古代传说中的百鸟之王"
+  },
+  {
+    "character": "击",
+    "pinyin": "jī",
+    "radical": "凵",
+    "strokes": 5,
+    "meaning": "打；敲打；进攻"
+  },
+  {
+    "character": "凿",
+    "pinyin": "záo",
+    "radical": "凵",
+    "strokes": 12,
+    "meaning": "打孔；挖掘；明确"
+  },
+  {
+    "character": "切",
+    "pinyin": "qiē",
+    "radical": "刀",
+    "strokes": 4,
+    "meaning": "用刀把物品分成若干部分；摩擦"
+  },
+  {
+    "character": "召",
+    "pinyin": "zhào",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "召唤；召集；傣族姓"
+  },
+  {
+    "character": "加",
+    "pinyin": "jiā",
+    "radical": "力",
+    "strokes": 5,
+    "meaning": "两个或两个以上的东西或数目合在一起；使数量增大"
+  },
+  {
+    "character": "劣",
+    "pinyin": "liè",
+    "radical": "力",
+    "strokes": 6,
+    "meaning": "坏；恶；小于"
+  },
+  {
+    "character": "动",
+    "pinyin": "dòng",
+    "radical": "力",
+    "strokes": 6,
+    "meaning": "改变原来位置或状态；行动；使用"
+  },
+  {
+    "character": "助",
+    "pinyin": "zhù",
+    "radical": "力",
+    "strokes": 7,
+    "meaning": "帮助；协助"
+  },
+  {
+    "character": "勇",
+    "pinyin": "yǒng",
+    "radical": "力",
+    "strokes": 9,
+    "meaning": "有胆量；勇敢的人"
+  },
+  {
+    "character": "勉",
+    "pinyin": "miǎn",
+    "radical": "力",
+    "strokes": 9,
+    "meaning": "尽力；勉励；努力"
+  },
+  {
+    "character": "勒",
+    "pinyin": "lè",
+    "radical": "力",
+    "strokes": 11,
+    "meaning": "套在马头上带嚼子的笼头；强制；统率"
+  },
+  {
+    "character": "胜",
+    "pinyin": "shèng",
+    "radical": "月",
+    "strokes": 9,
+    "meaning": "胜利；超过；优美的；承受"
+  },
+  {
+    "character": "服",
+    "pinyin": "fú",
+    "radical": "月",
+    "strokes": 8,
+    "meaning": "衣裳；吃；担任；信服"
+  },
+  {
+    "character": "剪",
+    "pinyin": "jiǎn",
+    "radical": "刀",
+    "strokes": 11,
+    "meaning": "剪刀；用剪刀使断开；铲除"
+  },
+  {
+    "character": "初",
+    "pinyin": "chū",
+    "radical": "刀",
+    "strokes": 7,
+    "meaning": "开始的；第一个；最低的"
+  },
+  {
+    "character": "利",
+    "pinyin": "lì",
+    "radical": "刂",
+    "strokes": 7,
+    "meaning": "锋利；利益；顺利；利润"
+  },
+  {
+    "character": "刺",
+    "pinyin": "cì",
+    "radical": "刂",
+    "strokes": 8,
+    "meaning": "用有尖的东西插入；暗杀；侦探"
+  },
+  {
+    "character": "剧",
+    "pinyin": "jù",
+    "radical": "刂",
+    "strokes": 10,
+    "meaning": "戏剧；猛烈；繁多"
+  },
+  {
+    "character": "剩",
+    "pinyin": "shèng",
+    "radical": "刂",
+    "strokes": 12,
+    "meaning": "多余；余下"
+  },
+  {
+    "character": "割",
+    "pinyin": "gē",
+    "radical": "刂",
+    "strokes": 12,
+    "meaning": "截断；划分；抛弃"
+  },
+  {
+    "character": "功",
+    "pinyin": "gōng",
+    "radical": "力",
+    "strokes": 5,
+    "meaning": "功劳；成就；功夫；效能"
+  },
+  {
+    "character": "有",
+    "pinyin": "yǒu",
+    "radical": "月",
+    "strokes": 6,
+    "meaning": "存在；表示所属；发生；客气"
+  },
+  {
+    "character": "明",
+    "pinyin": "míng",
+    "radical": "日",
+    "strokes": 8,
+    "meaning": "明亮；明白；公开；视力；次于今年的"
+  },
+  {
+    "character": "昨",
+    "pinyin": "zuó",
+    "radical": "日",
+    "strokes": 9,
+    "meaning": "昨天；泛指过去"
+  },
+  {
+    "character": "晒",
+    "pinyin": "shài",
+    "radical": "日",
+    "strokes": 10,
+    "meaning": "太阳把光和热照射到物体上；在阳光下吸收光和热"
+  },
+  {
+    "character": "晴",
+    "pinyin": "qíng",
+    "radical": "日",
+    "strokes": 12,
+    "meaning": "天空中无云或云很少"
+  },
+  {
+    "character": "晶",
+    "pinyin": "jīng",
+    "radical": "日",
+    "strokes": 12,
+    "meaning": "光亮；水晶；晶体"
+  },
+  {
+    "character": "景",
+    "pinyin": "jǐng",
+    "radical": "日",
+    "strokes": 12,
+    "meaning": "风景；情况；敬慕"
+  },
+  {
+    "character": "暗",
+    "pinyin": "àn",
+    "radical": "日",
+    "strokes": 13,
+    "meaning": "光线不足；隐藏不露的；糊涂"
+  },
+  {
+    "character": "暂",
+    "pinyin": "zàn",
+    "radical": "日",
+    "strokes": 12,
+    "meaning": "时间短；暂时"
+  },
+  {
+    "character": "暮",
+    "pinyin": "mù",
+    "radical": "日",
+    "strokes": 14,
+    "meaning": "傍晚；晚；将尽"
+  },
+  {
+    "character": "暴",
+    "pinyin": "bào",
+    "radical": "日",
+    "strokes": 15,
+    "meaning": "突然而且猛烈；凶狠；急躁；鼓起来"
+  },
+  {
+    "character": "曲",
+    "pinyin": "qū",
+    "radical": "曰",
+    "strokes": 6,
+    "meaning": "弯；不直；歪曲；曲折"
+  },
+  {
+    "character": "更",
+    "pinyin": "gēng",
+    "radical": "曰",
+    "strokes": 7,
+    "meaning": "改变；改换；经历；夜间计时单位"
+  },
+  {
+    "character": "乱",
+    "pinyin": "luàn",
+    "radical": "乙",
+    "strokes": 7,
+    "meaning": "没有秩序；战争；混淆；任意"
+  },
+  {
+    "character": "乾",
+    "pinyin": "qián",
+    "radical": "乙",
+    "strokes": 11,
+    "meaning": "八卦之一；代表天；旧时称男性的"
+  },
+  {
+    "character": "了",
+    "pinyin": "le",
+    "radical": "乙",
+    "strokes": 2,
+    "meaning": "结束；明白；在动词后跟\"得\"\"不\""
+  },
+  {
+    "character": "予",
+    "pinyin": "yǔ",
+    "radical": "乙",
+    "strokes": 4,
+    "meaning": "给与；赞许"
+  },
+  {
+    "character": "争",
+    "pinyin": "zhēng",
+    "radical": "亅",
+    "strokes": 6,
+    "meaning": "力求获得或达到；互不相让；争执"
+  },
+  {
+    "character": "康",
+    "pinyin": "kāng",
+    "radical": "广",
+    "strokes": 11,
+    "meaning": "健康；富足；广大"
+  },
+  {
+    "character": "库",
+    "pinyin": "kù",
+    "radical": "广",
+    "strokes": 7,
+    "meaning": "贮存东西的房屋或地方"
+  },
+  {
+    "character": "庭",
+    "pinyin": "tíng",
+    "radical": "广",
+    "strokes": 9,
+    "meaning": "厅堂；院子；法庭"
+  },
+  {
+    "character": "府",
+    "pinyin": "fǔ",
+    "radical": "广",
+    "strokes": 8,
+    "meaning": "旧时指官吏办理公事的地方；国家政权机关"
+  },
+  {
+    "character": "度",
+    "pinyin": "dù",
+    "radical": "广",
+    "strokes": 9,
+    "meaning": "计量长短；程度；量词；人的气质或姿态"
+  },
+  {
+    "character": "座",
+    "pinyin": "zuò",
+    "radical": "广",
+    "strokes": 10,
+    "meaning": "坐位；放在器物底下垫着的东西；量词"
+  },
+  {
+    "character": "席",
+    "pinyin": "xí",
+    "radical": "巾",
+    "strokes": 10,
+    "meaning": "用草苇或竹篾编成的东西；席位；酒席"
+  },
+  {
+    "character": "帮",
+    "pinyin": "bāng",
+    "radical": "巾",
+    "strokes": 9,
+    "meaning": "辅助；群；伙；集团"
+  },
+  {
+    "character": "带",
+    "pinyin": "dài",
+    "radical": "巾",
+    "strokes": 9,
+    "meaning": "带子；地带；携带；引导"
+  },
+  {
+    "character": "常",
+    "pinyin": "cháng",
+    "radical": "巾",
+    "strokes": 11,
+    "meaning": "一般；不变的；时常；平常"
+  },
+  {
+    "character": "幅",
+    "pinyin": "fú",
+    "radical": "巾",
+    "strokes": 12,
+    "meaning": "布帛的宽度；泛指宽度；量词"
+  },
+  {
+    "character": "幕",
+    "pinyin": "mù",
+    "radical": "巾",
+    "strokes": 13,
+    "meaning": "覆盖在上面的大块的布；帐篷；戏剧较完整的段落"
+  },
+  {
+    "character": "平",
+    "pinyin": "píng",
+    "radical": "干",
+    "strokes": 5,
+    "meaning": "表面没有高低凹凸；使平；公平；安定"
+  },
+  {
+    "character": "并",
+    "pinyin": "bìng",
+    "radical": "干",
+    "strokes": 6,
+    "meaning": "合在一起；一齐；用在否定词前加强否定语气"
+  },
+  {
+    "character": "幸",
+    "pinyin": "xìng",
+    "radical": "干",
+    "strokes": 8,
+    "meaning": "幸福；高兴；认为幸福而高兴；侥幸"
+  },
+  {
+    "character": "弄",
+    "pinyin": "nòng",
+    "radical": "廾",
+    "strokes": 7,
+    "meaning": "手拿着玩；做；搞；耍"
+  },
+  {
+    "character": "弁",
+    "pinyin": "biàn",
+    "radical": "廾",
+    "strokes": 5,
+    "meaning": "古代一种帽子；低级武职人员"
+  },
+  {
+    "character": "式",
+    "pinyin": "shì",
+    "radical": "弋",
+    "strokes": 6,
+    "meaning": "样子；格式；典礼；规矩"
+  },
+  {
+    "character": "引",
+    "pinyin": "yǐn",
+    "radical": "弓",
+    "strokes": 4,
+    "meaning": "牵引；引导；拉开；惹起；用来做依据"
+  },
+  {
+    "character": "张",
+    "pinyin": "zhāng",
+    "radical": "弓",
+    "strokes": 7,
+    "meaning": "使合拢的东西分开；陈设；扩大；看；量词"
+  },
+  {
+    "character": "弯",
+    "pinyin": "wān",
+    "radical": "弓",
+    "strokes": 9,
+    "meaning": "不直；使弯曲；弯曲的地方"
+  },
+  {
+    "character": "强",
+    "pinyin": "qiáng",
+    "radical": "弓",
+    "strokes": 12,
+    "meaning": "力量大；感情或意志所要求达到的程度高；使用强力"
+  },
+  {
+    "character": "归",
+    "pinyin": "guī",
+    "radical": "彐",
+    "strokes": 5,
+    "meaning": "返回；还给；趋向或集中于一个地方"
+  },
+  {
+    "character": "录",
+    "pinyin": "lù",
+    "radical": "彐",
+    "strokes": 8,
+    "meaning": "记载；抄写；用仪器记录"
+  },
+  {
+    "character": "形",
+    "pinyin": "xíng",
+    "radical": "彡",
+    "strokes": 7,
+    "meaning": "形状；形体；显露；对照"
+  },
+  {
+    "character": "彩",
+    "pinyin": "cǎi",
+    "radical": "彡",
+    "strokes": 11,
+    "meaning": "颜色；花样；称赞的欢呼声；受伤流的血"
+  },
+  {
+    "character": "雕",
+    "pinyin": "diāo",
+    "radical": "隹",
+    "strokes": 16,
+    "meaning": "一种猛禽；在竹木玉石等上面刻花纹；用彩画装饰"
+  },
+  {
+    "character": "反",
+    "pinyin": "fǎn",
+    "radical": "又",
+    "strokes": 4,
+    "meaning": "颠倒的；回转；反抗；翻转"
+  },
+  {
+    "character": "取",
+    "pinyin": "qǔ",
+    "radical": "又",
+    "strokes": 8,
+    "meaning": "拿到身边；采取；得到；招致"
+  },
+  {
+    "character": "受",
+    "pinyin": "shòu",
+    "radical": "又",
+    "strokes": 8,
+    "meaning": "接受；忍受；适合"
+  },
+  {
+    "character": "另",
+    "pinyin": "lìng",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "别的；另外"
+  },
+  {
+    "character": "叫",
+    "pinyin": "jiào",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "人或动物发出较大的声音；招呼；名称是；称呼"
+  },
+  {
+    "character": "可",
+    "pinyin": "kě",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "允许；能够；值得；适合"
+  },
+  {
+    "character": "号",
+    "pinyin": "hào",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "名称；标志；排定的次序；号令；切"
+  },
+  {
+    "character": "司",
+    "pinyin": "sī",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "主管；操作；部属；中央部一级机关里的部门"
+  },
+  {
+    "character": "叹",
+    "pinyin": "tàn",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "叹息；吟哦；赞叹"
+  },
+  {
+    "character": "叼",
+    "pinyin": "diāo",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "用嘴夹着"
+  },
+  {
+    "character": "叨",
+    "pinyin": "dāo",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "话多，繁絮"
+  },
+  {
+    "character": "叩",
+    "pinyin": "kòu",
+    "radical": "口",
+    "strokes": 5,
+    "meaning": "敲；询问；磕头"
+  },
+  {
+    "character": "吉",
+    "pinyin": "jí",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "吉利；吉祥；吉林"
+  },
+  {
+    "character": "吐",
+    "pinyin": "tǔ",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "使东西从嘴里出来；说出；吐露"
+  },
+  {
+    "character": "吗",
+    "pinyin": "ma",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "助词，表疑问"
+  },
+  {
+    "character": "各",
+    "pinyin": "gè",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "每个；彼此不同的"
+  },
+  {
+    "character": "名",
+    "pinyin": "míng",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "名字；名称；出名的；有名的；说出"
+  },
+  {
+    "character": "吓",
+    "pinyin": "xià",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "使害怕；恐吓"
+  },
+  {
+    "character": "吕",
+    "pinyin": "lǚ",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "姓；我国古代音乐十二律中的阴律"
+  },
+  {
+    "character": "吊",
+    "pinyin": "diào",
+    "radical": "口",
+    "strokes": 6,
+    "meaning": "祭奠死者；悬挂；把球从网上打下"
+  },
+  {
+    "character": "否",
+    "pinyin": "fǒu",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "不同意；不"
+  },
+  {
+    "character": "吹",
+    "pinyin": "chuī",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "合拢嘴唇用力出气；夸口；吹奏"
+  },
+  {
+    "character": "吻",
+    "pinyin": "wěn",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "嘴唇；用嘴唇接触表示喜爱"
+  },
+  {
+    "character": "启",
+    "pinyin": "qǐ",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "打开；开始；开导；陈述"
+  },
+  {
+    "character": "呆",
+    "pinyin": "dāi",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "傻；死板；停留"
+  },
+  {
+    "character": "呈",
+    "pinyin": "chéng",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "现出；恭敬地送上去；呈文"
+  },
+  {
+    "character": "告",
+    "pinyin": "gào",
+    "radical": "口",
+    "strokes": 7,
+    "meaning": "把事情说给别人；检举；请求；表明"
+  },
+  {
+    "character": "我",
+    "pinyin": "wǒ",
+    "radical": "戈",
+    "strokes": 7,
+    "meaning": "自称；自己"
+  },
+  {
+    "character": "或",
+    "pinyin": "huò",
+    "radical": "戈",
+    "strokes": 8,
+    "meaning": "也许；有时；某人；稍微"
+  },
+  {
+    "character": "截",
+    "pinyin": "jié",
+    "radical": "戈",
+    "strokes": 14,
+    "meaning": "割断；阻拦；段；截止"
+  },
+  {
+    "character": "战",
+    "pinyin": "zhàn",
+    "radical": "戈",
+    "strokes": 9,
+    "meaning": "战争；打仗；泛指争斗"
+  },
+  {
+    "character": "戛",
+    "pinyin": "jiá",
+    "radical": "戈",
+    "strokes": 11,
+    "meaning": "轻轻地敲打；突然"
+  },
+  {
+    "character": "戚",
+    "pinyin": "qī",
+    "radical": "戈",
+    "strokes": 11,
+    "meaning": "亲戚；忧愁；古代兵器名"
+  },
+  {
+    "character": "戒",
+    "pinyin": "jiè",
+    "radical": "戈",
+    "strokes": 7,
+    "meaning": "防备；警惕；禁止做的事情；摘下"
+  },
+  {
+    "character": "户",
+    "pinyin": "hù",
+    "radical": "户",
+    "strokes": 4,
+    "meaning": "门；人家；户口；门第"
+  },
+  {
+    "character": "所",
+    "pinyin": "suǒ",
+    "radical": "户",
+    "strokes": 8,
+    "meaning": "处所；机关或其他办事的地方；量词"
+  },
+  {
+    "character": "扁",
+    "pinyin": "biǎn",
+    "radical": "户",
+    "strokes": 9,
+    "meaning": "物体平而薄；不周全"
+  },
+  {
+    "character": "扇",
+    "pinyin": "shàn",
+    "radical": "户",
+    "strokes": 10,
+    "meaning": "摇动生风的用具；片状的东西"
+  },
+  {
+    "character": "戾",
+    "pinyin": "lì",
+    "radical": "户",
+    "strokes": 8,
+    "meaning": "乖张；残暴"
+  },
+  {
+    "character": "才",
+    "pinyin": "cái",
+    "radical": "扌",
+    "strokes": 3,
+    "meaning": "才能；有才能的人；刚才；仅仅"
+  },
+  {
+    "character": "执",
+    "pinyin": "zhí",
+    "radical": "扌",
+    "strokes": 6,
+    "meaning": "拿着；执行；坚持；逮捕"
+  },
+  {
+    "character": "扩",
+    "pinyin": "kuò",
+    "radical": "扌",
+    "strokes": 6,
+    "meaning": "放大；张大"
+  },
+  {
+    "character": "扫",
+    "pinyin": "sǎo",
+    "radical": "扌",
+    "strokes": 6,
+    "meaning": "用笤帚等除去尘土；清除；很快地左右移动"
+  },
+  {
+    "character": "扬",
+    "pinyin": "yáng",
+    "radical": "扌",
+    "strokes": 6,
+    "meaning": "举起；飘动；播撒；称赞"
+  },
+  {
+    "character": "扶",
+    "pinyin": "fú",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "用手支持使人或物不倒；帮助"
+  },
+  {
+    "character": "抚",
+    "pinyin": "fǔ",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "轻轻地按着；安慰；保护"
+  },
+  {
+    "character": "抛",
+    "pinyin": "pāo",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "扔；丢下；暴露"
+  },
+  {
+    "character": "批",
+    "pinyin": "pī",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "用手掌打；批判；量词"
+  },
+  {
+    "character": "扼",
+    "pinyin": "è",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "用力掐住；把守；抓住"
+  },
+  {
+    "character": "找",
+    "pinyin": "zhǎo",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "寻求；想要得到；退回多余的钱"
+  },
+  {
+    "character": "技",
+    "pinyin": "jì",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "手艺；才能；本事"
+  },
+  {
+    "character": "抄",
+    "pinyin": "chāo",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "誊写；照着别人的作品、作业等写下来当作自己的"
+  },
+  {
+    "character": "抗",
+    "pinyin": "kàng",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "抵挡；拒绝；对等"
+  },
+  {
+    "character": "折",
+    "pinyin": "zhé",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "断；弯曲；回转；折服"
+  },
+  {
+    "character": "抓",
+    "pinyin": "zhuā",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "用手或爪取物；把握住；特别注意"
+  },
+  {
+    "character": "扳",
+    "pinyin": "bān",
+    "radical": "扌",
+    "strokes": 7,
+    "meaning": "使位置固定的东西改变方向或转动"
+  },
+  {
+    "character": "披",
+    "pinyin": "pī",
+    "radical": "扌",
+    "strokes": 8,
+    "meaning": "打开；散开；搭在肩背上"
+  },
+  {
+    "character": "抬",
+    "pinyin": "tái",
+    "radical": "扌",
+    "strokes": 8,
+    "meaning": "举；提高；共同用手或肩膀搬东西"
+  },
+  {
+    "character": "抱",
+    "pinyin": "bào",
+    "radical": "扌",
+    "strokes": 8,
+    "meaning": "用手臂围住；环绕；心里存着"
+  },
+  {
+    "character": "抵",
+    "pinyin": "dǐ",
+    "radical": "扌",
+    "strokes": 8,
+    "meaning": "挡；抗拒；顶替；到达"
+  },
+  {
+    "character": "拘",
+    "pinyin": "jū",
+    "radical": "扌",
+    "strokes": 8,
+    "meaning": "逮捕；拘留；拘束；不变通"
+  },
+  {
+    "character": "势",
+    "pinyin": "shì",
+    "radical": "力",
+    "strokes": 8,
+    "meaning": "势力；一切事物力量表现出来的趋向；姿态"
+  },
+  {
+    "character": "垃",
+    "pinyin": "lā",
+    "radical": "土",
+    "strokes": 8,
+    "meaning": "脏土或扔掉的破烂东西"
+  },
+  {
+    "character": "圾",
+    "pinyin": "jī",
+    "radical": "土",
+    "strokes": 8,
+    "meaning": "垃圾"
+  },
+  {
+    "character": "在",
+    "pinyin": "zài",
+    "radical": "土",
+    "strokes": 6,
+    "meaning": "存在；生存；居于；在于"
+  },
+  {
+    "character": "块",
+    "pinyin": "kuài",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "成疙瘩或成团的东西；量词"
+  },
+  {
+    "character": "坚",
+    "pinyin": "jiān",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "硬；坚固；坚定；坚固的东西"
+  },
+  {
+    "character": "坛",
+    "pinyin": "tán",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "古代举行祭祀、誓师等大典用的土台；舆论阵地"
+  },
+  {
+    "character": "坝",
+    "pinyin": "bà",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "拦水的建筑物；河堤"
+  },
+  {
+    "character": "坍",
+    "pinyin": "tān",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "倒塌"
+  },
+  {
+    "character": "均",
+    "pinyin": "jūn",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "平；匀；都；全"
+  },
+  {
+    "character": "坑",
+    "pinyin": "kēng",
+    "radical": "土",
+    "strokes": 7,
+    "meaning": "洼下去的地方；地道；坑害人"
+  }
+]

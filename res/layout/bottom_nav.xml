@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 底部固定导航栏：后台 / 主页 / 返回 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:background="#E0E0E0"
+    android:weightSum="3">
+
+    <Button
+        android:id="@+id/btn_background"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/nav_background"
+        android:textSize="14sp"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#BDBDBD" />
+
+    <Button
+        android:id="@+id/btn_home"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/nav_home"
+        android:textSize="14sp"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#BDBDBD" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/nav_back"
+        android:textSize="14sp"
+        android:background="?android:attr/selectableItemBackground" />
+
+</LinearLayout>

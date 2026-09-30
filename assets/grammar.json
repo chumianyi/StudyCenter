@@ -1,0 +1,173 @@
+[
+  {
+    "category": "时态",
+    "title": "一般现在时",
+    "explanation": "一般现在时用来表示经常发生的动作、习惯、客观真理或现在的状态。结构为：主语 + 动词原形（第三人称单数时动词加 -s/-es）。常与 often, usually, always, every day, sometimes 等时间状语连用。例如表示客观真理时，无论主语是谁，动词都用一般现在时。否定句用 do/does + not + 动词原形，疑问句将 Do/Does 提到句首。注意：第三人称单数（he/she/it）作主语时，动词必须加 -s，如 likes, goes, watches。",
+    "example": "1. The sun rises in the east. 太阳从东方升起。\n2. She goes to school by bus every day. 她每天乘公交车上学。",
+    "exercise_question": "He ____ to school every morning.",
+    "exercise_options": ["go", "goes", "going", "is going"],
+    "exercise_answer": "B",
+    "exercise_explain": "主语 He 是第三人称单数，时间状语 every morning 表示习惯，用一般现在时，动词 go 应加 -es 变为 goes。"
+  },
+  {
+    "category": "时态",
+    "title": "现在进行时",
+    "explanation": "现在进行时表示现在正在进行的动作或现阶段正在做的事。结构为：am/is/are + 动词-ing。常与 now, at the moment, Look!, Listen! 等提示词连用。动词 -ing 的构成规则：一般直接加 ing（going）；以不发音的 e 结尾去 e 加 ing（making）；重读闭音节双写末尾辅音加 ing（running, sitting）。表示计划好的将来动作时也可用现在进行时，如 I'm leaving tomorrow。",
+    "example": "1. I am reading a book now. 我现在正在读书。\n2. Look! The children are playing football. 看！孩子们正在踢足球。",
+    "exercise_question": "Listen! Someone ____ at the door.",
+    "exercise_options": ["knocks", "knocking", "is knocking", "knock"],
+    "exercise_answer": "C",
+    "exercise_explain": "Listen! 提示动作正在发生，用现在进行时 is knocking。"
+  },
+  {
+    "category": "时态",
+    "title": "一般过去时",
+    "explanation": "一般过去时表示过去某个时间发生的动作或存在的状态。结构为：主语 + 动词过去式。常与 yesterday, last week, ...ago, just now, in 2008 等过去时间状语连用。规则动词过去式加 -ed（worked）；不规则动词需单独记忆（go-went, eat-ate, see-saw）。否定句用 didn't + 动词原形，疑问句用 Did + 主语 + 动词原形。注意：用了 didn't 或 Did 后，动词必须还原为原形。",
+    "example": "1. I visited my grandparents last weekend. 上周末我看望了祖父母。\n2. She didn't go to the party yesterday. 她昨天没去参加聚会。",
+    "exercise_question": "They ____ a movie last night.",
+    "exercise_options": ["watch", "watches", "watched", "watching"],
+    "exercise_answer": "C",
+    "exercise_explain": "last night 是过去时间状语，用一般过去时，watch 的过去式为 watched。"
+  },
+  {
+    "category": "时态",
+    "title": "现在完成时",
+    "explanation": "现在完成时表示过去发生且对现在造成影响的动作，或从过去持续到现在的动作。结构为：have/has + 过去分词。常与 already, yet, just, ever, never, since, for, so far 等连用。have been to 表示\"去过已回\"，have gone to 表示\"去了未回\"。注意：现在完成时不能与明确的过去时间状语（如 yesterday, last year）连用。",
+    "example": "1. I have already finished my homework. 我已经完成作业了。\n2. She has lived here since 2010. 她从 2010 年起就住在这里。",
+    "exercise_question": "I ____ never ____ to Beijing.",
+    "exercise_options": ["have; been", "has; been", "have; gone", "did; go"],
+    "exercise_answer": "A",
+    "exercise_explain": "主语 I 用 have，never 提示经历，\"去过已回\"用 have been to。"
+  },
+  {
+    "category": "语态",
+    "title": "被动语态",
+    "explanation": "被动语态表示主语是动作的承受者。结构为：be + 过去分词，be 随时态和人称变化。一般现在时被动：am/is/are + done；一般过去时被动：was/were + done；情态动词被动：can/must + be + done。主动句变被动句时，主动句的宾语变为主语，主语变为 by 引导的短语（可省略）。不及物动词（happen, appear, die 等）没有被动语态。",
+    "example": "1. The bridge was built in 1990. 这座桥建于 1990 年。\n2. English is spoken in many countries. 许多国家讲英语。",
+    "exercise_question": "The letter ____ by him yesterday.",
+    "exercise_options": ["wrote", "was written", "is written", "writes"],
+    "exercise_answer": "B",
+    "exercise_explain": "yesterday 用过去时，letter 是\"被写\"，用一般过去时被动 was written。"
+  },
+  {
+    "category": "从句",
+    "title": "宾语从句",
+    "explanation": "宾语从句在复合句中作主句的宾语，通常由 that, if/whether, 连接代词或连接副词引导。that 在口语中常可省略；if/whether 表示\"是否\"；what, who, where, when, why, how 引导时保留本身词义。宾语从句必须用陈述语序（主语在前，谓语在后）。时态一致：主句过去时，从句用相应的过去时态；从句为客观真理时仍用一般现在时。",
+    "example": "1. He said that he would come. 他说他会来。\n2. I don't know where he lives. 我不知道他住在哪里。",
+    "exercise_question": "Can you tell me ____?",
+    "exercise_options": ["where is the post office", "where the post office is", "where was the post office", "the post office is where"],
+    "exercise_answer": "B",
+    "exercise_explain": "宾语从句用陈述语序，即主语 the post office 在谓语 is 之前。"
+  },
+  {
+    "category": "从句",
+    "title": "定语从句",
+    "explanation": "定语从句修饰名词或代词，紧跟在先行词之后。关系代词 who（指人，作主语）、whom（指人，作宾语）、whose（表所属）、which（指物）、that（指人或物）。关系副词 when（时间）、where（地点）、why（原因）。当关系代词作宾语时可省略。限制性关系从句不用逗号隔开，非限制性关系从句用逗号隔开且不能用 that。",
+    "example": "1. The man who is talking to Mary is my teacher. 正在和玛丽说话的那个人是我老师。\n2. This is the book which I bought yesterday. 这是我昨天买的书。",
+    "exercise_question": "The book ____ you lent me is very interesting.",
+    "exercise_options": ["who", "whose", "which", "what"],
+    "exercise_answer": "C",
+    "exercise_explain": "先行词 book 指物，关系代词用 which/that，在从句中作 lent 的宾语。"
+  },
+  {
+    "category": "从句",
+    "title": "状语从句",
+    "explanation": "状语从句按意义分为时间（when, while, as, before, after, until, as soon as）、条件（if, unless, as long as）、原因（because, since, as）、目的（so that, in order that）、结果（so...that, such...that）、让步（though, although, even if）、比较（than, as...as）等。主从句时态呼应：时间/条件状语从句中，主句用将来时，从句用一般现在时表将来。",
+    "example": "1. I will call you as soon as I arrive. 我一到就给你打电话。\n2. Although it was raining, he went out. 虽然下雨，他还是出去了。",
+    "exercise_question": "I will go to the park if it ____ tomorrow.",
+    "exercise_options": ["will rain", "rains", "doesn't rain", "isn't rain"],
+    "exercise_answer": "C",
+    "exercise_explanation_note": "",
+    "exercise_explain": "if 引导条件状语从句，主句将来时，从句用一般现在时；根据逻辑应为\"不下雨就去\"，选 doesn't rain。"
+  },
+  {
+    "category": "非谓语动词",
+    "title": "动词不定式",
+    "explanation": "动词不定式结构为 to + 动词原形，可作主语、宾语、宾语补足语、定语、状语等。常见接不定式作宾语的动词：want, hope, decide, plan, agree, refuse, would like。接不定式作宾补的动词：ask, tell, want, invite, expect。使役动词 make/let/have 和感官动词 see/hear/watch 后接不带 to 的不定式（但被动时要还原 to）。疑问词 + 不定式结构：what to do, how to solve。",
+    "example": "1. I want to buy a new phone. 我想买一部新手机。\n2. He asked me to help him. 他请我帮他。",
+    "exercise_question": "The teacher told us ____ noise in class.",
+    "exercise_options": ["not make", "not to make", "don't make", "to not make"],
+    "exercise_answer": "B",
+    "exercise_explain": "tell sb. (not) to do sth. 结构，否定词 not 应放在 to 之前，即 not to make。"
+  },
+  {
+    "category": "非谓语动词",
+    "title": "动名词",
+    "explanation": "动名词由动词 + ing 构成，起名词作用，可作主语、宾语、表语、定语。只能接动名词作宾语的动词：enjoy, finish, mind, practice, suggest, keep, avoid, consider, give up, feel like。常见结构：be used to doing（习惯于）、look forward to doing、pay attention to doing、can't help doing。介词后接动词时用动名词，如 be good at swimming。",
+    "example": "1. Would you mind opening the window? 你介意开窗吗？\n2. I enjoy reading novels in my free time. 我空闲时喜欢读小说。",
+    "exercise_question": "Would you mind ____ the window?",
+    "exercise_options": ["open", "to open", "opening", "opened"],
+    "exercise_answer": "C",
+    "exercise_explain": "mind 后接动名词作宾语，即 opening。"
+  },
+  {
+    "category": "非谓语动词",
+    "title": "现在分词与过去分词",
+    "explanation": "现在分词（doing）表示主动、进行；过去分词（done）表示被动、完成。两者均可作定语、表语、宾语补足语和状语。作定语时：a sleeping baby（正在睡觉的婴儿）；a broken cup（被打碎的杯子）。作宾补时：see sb. doing（看到某人正在做）；have sth. done（让某事被做）。作状语时：Seeing the teacher, the students stopped talking.（= Because they saw...）",
+    "example": "1. The story is interesting. 这个故事很有趣。（修饰事物）\n2. I am interested in the story. 我对这个故事感兴趣。（修饰人）",
+    "exercise_question": "The ____ cup needs to be thrown away.",
+    "exercise_options": ["breaking", "broken", "break", "to break"],
+    "exercise_answer": "B",
+    "exercise_explain": "杯子是\"被打碎的\"，用过去分词 broken 作定语表被动完成。"
+  },
+  {
+    "category": "虚拟语气",
+    "title": "if 非真实条件句",
+    "explanation": "虚拟语气表示与事实相反的假设。与现在事实相反：if + 主语 + 过去式（be 用 were），主语 + would/could/should + 动词原形。与过去事实相反：if + 主语 + had done，主语 + would/could + have done。与将来事实相反：if + 主语 + were to do / should do，主语 + would + 动词原形。if 从句省略 if 时，were/had/should 提到主语前倒装。",
+    "example": "1. If I were you, I would take the job. 如果我是你，我就接受这份工作。\n2. If I had known the truth, I would have told you. 如果我知道真相，我就告诉你了。",
+    "exercise_question": "If I ____ richer, I would buy a big house.",
+    "exercise_options": ["am", "was", "were", "be"],
+    "exercise_answer": "C",
+    "exercise_explain": "与现在事实相反，be 动词统一用 were（虚拟语气）。"
+  },
+  {
+    "category": "情态动词",
+    "title": "情态动词表推测",
+    "explanation": "情态动词可以表示对事物的推测。must 表示肯定推测（一定），只用于肯定句；can't 表示否定推测（不可能）；may/might/could 表示可能（might 可能性更小）。对现在的推测：情态动词 + 动词原形；对正在进行的推测：情态动词 + be doing；对过去的推测：情态动词 + have done。注意：mustn't 表示禁止，不表示推测。",
+    "example": "1. The light is on. He must be at home. 灯亮着，他一定在家。\n2. She can't be in the office, for she has gone to Paris. 她不可能在办公室，她去巴黎了。",
+    "exercise_question": "The ground is wet. It ____ have rained last night.",
+    "exercise_options": ["can", "must", "would", "need"],
+    "exercise_answer": "B",
+    "exercise_explain": "地面湿是过去下雨造成的肯定推测，用 must have done。"
+  },
+  {
+    "category": "情态动词",
+    "title": "情态动词基本用法",
+    "explanation": "can/could 表能力、许可；may/might 表许可、可能；must 表必须、肯定推测；have to 表客观不得不；should/ought to 表应该；shall 表提议、命令；will/would 表意愿、请求。情态动词后接动词原形，无人称和数的变化。must 引导的一般疑问句，否定回答用 needn't / don't have to（不必），而不是 mustn't（禁止）。",
+    "example": "1. Can you speak French? 你会说法语吗？\n2. You must finish your homework first. 你必须先完成作业。",
+    "exercise_question": "- Must I come tomorrow? - No, you ____.",
+    "exercise_options": ["mustn't", "needn't", "can't", "may not"],
+    "exercise_answer": "B",
+    "exercise_explain": "Must 提问的否定回答用 needn't / don't have to，表示\"不必\"。"
+  },
+  {
+    "category": "介词",
+    "title": "时间介词 in / on / at",
+    "explanation": "at 用于具体时刻：at 7 o'clock, at noon, at midnight；也用于固定搭配 at night, at Christmas。on 用于具体某一天或某天的上午下午：on Monday, on May 1st, on a cold morning, on the morning of June 1st。in 用于较长时间：in the morning/afternoon/evening, in 2024, in summer, in January。注意：this/next/last/every 前不用介词。",
+    "example": "1. We have lunch at 12:00. 我们 12 点吃午饭。\n2. He was born on a cold winter morning. 他出生在一个寒冷的冬日早晨。",
+    "exercise_question": "We usually go swimming ____ summer.",
+    "exercise_options": ["at", "on", "in", "for"],
+    "exercise_answer": "C",
+    "exercise_explain": "季节前用介词 in，即 in summer。"
+  },
+  {
+    "category": "冠词",
+    "title": "不定冠词 a / an",
+    "explanation": "a/an 表示泛指\"一个\"，a 用于辅音音素开头的单词前，an 用于元音音素开头的单词前（注意是发音而非字母）。如 a university（u 发 /ju:/ 辅音），an hour（h 不发音）。a/an 用于：第一次提到的单数可数名词；指人或职业；固定搭配 have a rest, have a cold, a lot of, in a hurry。",
+    "example": "1. I saw a dog in the garden. 我在花园里看到一只狗。\n2. She is an English teacher. 她是一位英语老师。",
+    "exercise_question": "He is ____ honest boy.",
+    "exercise_options": ["a", "an", "the", "/"],
+    "exercise_answer": "B",
+    "exercise_explain": "honest 的 h 不发音，以元音音素开头，用 an。"
+  },
+  {
+    "category": "冠词",
+    "title": "定冠词 the 与零冠词",
+    "explanation": "the 表特指：上文提到过的人或物；世界上独一无二的事物（the sun, the earth）；序数词和最高级前；方位名词前；the + 形容词表一类人（the rich, the poor）。零冠词情况：专有名词、泛指的复数名词、不可数名词、三餐/球类/棋类/学科名词前（have breakfast, play football）；节日、月份、季节前；称呼语或头衔前。",
+    "example": "1. The sun is much bigger than the earth. 太阳比地球大得多。\n2. We play basketball after school. 我们放学后打篮球。",
+    "exercise_question": "____ Greens are sitting at ____ table.",
+    "exercise_options": ["A; the", "The; /", "The; the", "/; the"],
+    "exercise_answer": "B",
+    "exercise_explain": "the + 姓氏复数表示\"一家人\"，即 the Greens；at table 表示\"在吃饭\"，零冠词。"
+  }
+]
